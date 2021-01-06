@@ -24,6 +24,5 @@
 	address of the bytes used. For example, suppose a variable x of type int
 	has address 0x100; that is, the value of the address expression &x is
 	0x100. Then (assuming data type int has 32-bit representation) the four 
-	bytes of x would be stored in memory locations 0x100, 0x101, 0x102, 0x103
+	bytes of x would be stored in memory locations 0x100, 0x101, 0x102, 0x103.
 
-================================文本长度===================================
