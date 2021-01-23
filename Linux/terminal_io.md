@@ -1,27 +1,24 @@
 # terminal_io 
-================================ÎÄ±¾³¤¶È===================================
+================================æ–‡æœ¬é•¿åº¦===================================================================
 
-## ÎÊÌâ  
-Ïò´®¿Ú·¢ËÍÖ¸Áî**0x02(STX)**£¬ÓÃread()È¥¶ÁÊÕµ½µÄÊı¾İµÄÊ±ºò£¬ÏÔÊ¾**Resource temporarily**  
-**unavailable**
+## é—®é¢˜  
+å‘ä¸²å£å‘é€æŒ‡ä»¤**0x02(STX)**ï¼Œç”¨read()å»è¯»æ”¶åˆ°çš„æ•°æ®çš„æ—¶å€™ï¼Œæ˜¾ç¤º**Resource temporarily unavailable**
 
-## ·ÖÎö  
-ÕâÊÇÒòÎªÔÚ´®¿Ú´ò¿ªµÄÊ±ºò£¬ÉèÖÃ³ÉÁË**canonical**Ä£Ê½¡£½«Ä£Ê½¸ÄÎª**non-canonical**¼´¿É¡£
+## åˆ†æ  
+è¿™æ˜¯å› ä¸ºåœ¨ä¸²å£æ‰“å¼€çš„æ—¶å€™ï¼Œè®¾ç½®æˆäº†**canonical**æ¨¡å¼ã€‚å°†æ¨¡å¼æ”¹ä¸º**non-canonical**å³å¯ã€‚
 
-## ¸ÅÄî  
+## æ¦‚å¿µ  
 POSIX system support two basic modes of input: canonical and noncanonical.
 
 ### Canonical input style
 #### Every input is Terminated by a newline, EOF, or EOL
-In *canonical input processing mode*, terminal input is processed in lines terminated   
-by **newline ('\n'), EOF, or EOL characters**. No input can be read until an **entire line**    
-has been typed by the user, and the *read* function returns at **most a single line** of     
-input, no matter how many bytes are requested.
+In *canonical input processing mode*, terminal input is processed in lines terminated by **newline** ('\n'),  
+**EOF, or EOL characters**. No input can be read until an **entire line** has been typed by the user, and the  
+*read* function returns at **most a single line** of input, no matter how many bytes are requested.
 
 #### Could edit current line of text
-In canonical input mode, the operation system provides input editing facilities: some characters   
-are interpreted to perform editing operations within the current line of text, such as *ERASE* and  
-*KILL*.
+In canonical input mode, the operation system provides input editing facilities: some characters are  
+interpreted to perform editing operations within the current line of text, such as *ERASE* and *KILL*.
 
 
 ### Noncanonical input style
