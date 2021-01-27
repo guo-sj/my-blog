@@ -82,7 +82,7 @@ autocmd BufWinLeave *.* mkview
 autocmd BufWinEnter *.* silent loadview
 
 " set coding order
-set fileencodings=utf-8,gb2312,gbk,gb18030
+set fileencodings=utf-8,gb2312,gbk,gb18030,euc-cn,big5,euc-tw
 set termencoding=utf-8
 set encoding=utf-8
 
