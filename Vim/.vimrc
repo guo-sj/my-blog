@@ -82,9 +82,9 @@ autocmd BufWinLeave *.* mkview
 autocmd BufWinEnter *.* silent loadview
 
 " set coding order
-set fileencodings=utf-8,gb2312,gbk,gb18030,euc-cn,big5,euc-tw
+set fileencodings=utf-8,gb2312,gbk,gb18030
 set termencoding=utf-8
-set encoding=utf-8
+set encoding=gbk
 
 " set autoindent
 set autoindent
@@ -92,10 +92,14 @@ set autoindent
 " set filetype
 filetype plugin on
 
-" set colorscheme
-colorscheme desert
-
 " abbreviation
 ab #e		****************************************/
 ab #b		/****************************************
+ab {        {}
+ab /*       /* */
+ab [        []
+ab <        <>
+ab "        ""
 
+" colorscheme desert
+colorscheme desert
