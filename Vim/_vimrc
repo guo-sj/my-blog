@@ -1,49 +1,27 @@
+" Vim with all enhancements
 source $VIMRUNTIME/vimrc_example.vim
 
-"无菜单工具条
+" Use the internal diff if available.
+" Otherwise use the special 'diffexpr' for Windows.
+
 set go=
 
-"设置Gvim字体
-set guifont=Consolas:h16:cANSI:qDRAFT
+set hlsearch
+set number
+set guifont=Consolas:h14:cANSI
 
-"Gvim打开即进入全屏
-set lines=150 columns=1000
-
-"设置主题
 colo evening
 
-" number
-set number
+set mousehide
 
-"设置tab=4space
-set tabstop=4
-set softtabstop=4
-set shiftwidth=4
+set enc=utf-8
+set fileencoding=utf-8
+"set fileencoding=ucs-bom,utf-8,ptc
+"set guifontwide=NSimsun:h12
 
-" set tab to 4 spaces
-set expandtab
-
-" set auto mkview and loadview
-au BufWinLeave *.* mkview
-au BufWinEnter *.* silent loadview
-
-" set foldcolumn
-set foldcolumn=3
-
-" set coding order
-set fileencodings=utf-8,gb2312,gbk,gb18030
-set termencoding=utf-8
-set encoding=gbk
-
-" set filetype
-filetype plugin on
-
-" abbreviation
-ab #e		****************************************/
-ab #b		/****************************************
-
-set hlsearch
-set diffexpr=MyDiff()
+if &diffopt !~# 'internal'
+  set diffexpr=MyDiff()
+endif
 function MyDiff()
   let opt = '-a --binary '
   if &diffopt =~ 'icase' | let opt = opt . '-i ' | endif
@@ -77,3 +55,21 @@ function MyDiff()
   endif
 endfunction
 
+" set tab = 4 spaces
+set tabstop=4
+set softtabstop=4
+set shiftwidth=4
+set expandtab
+
+" set fold attribute
+set foldcolumn=3
+
+" set auto mkview and loadview
+autocmd BufWinLeave *.* mkview
+autocmd BufWinEnter *.* silent loadview
+
+" abbreviation
+ab #e        ****************************************/
+ab #b        /****************************************
+ab {		 {}
+ab /*        /* */
