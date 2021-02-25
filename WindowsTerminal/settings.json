@@ -112,7 +112,11 @@
 		{ "command": { "action": "switchToTab", "index": 5}, "keys": "alt+6"},
 		{ "command": { "action": "switchToTab", "index": 6}, "keys": "alt+7"},
 		{ "command": { "action": "switchToTab", "index": 7}, "keys": "alt+8"},
-		{ "command": { "action": "switchToTab", "index": 8}, "keys": "alt+9"}
+		{ "command": { "action": "switchToTab", "index": 8}, "keys": "alt+9"},
 
+		// Rename tab to VIM/GDB/Manual
+		{ "command": { "action": "renameTab", "title": "VIM"    }, "keys": "ctrl+1"},
+		{ "command": { "action": "renameTab", "title": "GDB"    }, "keys": "ctrl+2"},
+		{ "command": { "action": "renameTab", "title": "Manual" }, "keys": "ctrl+3"}
     ]
 }
