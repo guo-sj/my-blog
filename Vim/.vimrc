@@ -84,7 +84,6 @@ autocmd BufWinEnter *.* silent loadview
 " set coding order
 set fileencodings=utf-8,gb2312,gbk,gb18030
 set termencoding=utf-8
-set encoding=gbk
 
 " set autoindent
 set autoindent
