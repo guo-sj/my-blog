@@ -99,3 +99,11 @@ ab /*       /* */
 
 " colorscheme desert
 colorscheme desert
+
+" vim-pathogen
+execute pathogen#infect()
+syntax on
+filetype plugin indent on
+
+" map : to -
+nnoremap - :
