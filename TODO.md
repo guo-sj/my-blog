@@ -7,4 +7,7 @@ Here we go!
 
 ## computer
 - ~~What does apt work?~~
-- 
+- ~~How to install vim plugin?~~
+- ~~Enter vim command mode not by press ':'~~
+- How to set vim dictionary?
+
