@@ -109,3 +109,6 @@ filetype plugin indent on
 nnoremap - :
 nnoremap = <C-D>
 nnoremap \ <C-U>
+
+" set dictionary
+set dictionary+=/usr/share/dict/words
