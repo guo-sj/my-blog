@@ -9,5 +9,10 @@ Here we go!
 - ~~What does apt work?~~
 - ~~How to install vim plugin?~~
 - ~~Enter vim command mode not by press ':'~~
-- How to set vim dictionary?
+- ~~How to set vim dictionary~~?
+- what is symbolic link in linux?
+
+### Programming
+- Build a my own dictionary
+- Build a my own library
 

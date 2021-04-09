@@ -105,5 +105,7 @@ execute pathogen#infect()
 syntax on
 filetype plugin indent on
 
-" map : to -
+" normal mode map
 nnoremap - :
+nnoremap = <C-D>
+nnoremap \ <C-U>
