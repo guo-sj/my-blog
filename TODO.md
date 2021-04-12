@@ -11,6 +11,9 @@ Here we go!
 - ~~Enter vim command mode not by press ':'~~
 - ~~How to set vim dictionary~~?
 - what is symbolic link in linux?
+- What does telnet actually do?
+- What is proxy?
+- git submodule
 
 ### Programming
 - Build a my own dictionary
