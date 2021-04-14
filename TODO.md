@@ -14,6 +14,7 @@ Here we go!
 - What does telnet actually do?
 - What is proxy?
 - git submodule
+- vim 中文的标点符号作为一个字的分隔符
 
 ### Programming
 - Build a my own dictionary
@@ -25,5 +26,4 @@ Here we go!
 - [The C Programming Language](https://hikage.freeshell.org/books/theCprogrammingLanguage.pdf)
 - [The Computer System, A programmer's perspective](https://hikage.freeshell.org/books/theCprogrammingLanguage.pdf)
 - The Practice of Programming
-
 
