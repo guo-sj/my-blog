@@ -19,3 +19,11 @@ Here we go!
 - Build a my own dictionary
 - Build a my own library
 - the cmu programming lab
+
+
+### Books
+- [The C Programming Language](https://hikage.freeshell.org/books/theCprogrammingLanguage.pdf)
+- [The Computer System, A programmer's perspective](https://hikage.freeshell.org/books/theCprogrammingLanguage.pdf)
+- The Practice of Programming
+
+
