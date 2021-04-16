@@ -38,4 +38,6 @@ Here we go!
 - [An Introduction to Bluetooth Programming](http://people.csail.mit.edu/albert/bluez-intro/index.html) <-- 50%
 - [Beej's Guide to Network Programming](http://www.beej.us/guide/bgnet/html/) <-- 10% (second)
 - Vim Manual
-
+    - ~~usr_01.txt~~
+    - usr_02.txt
+        - 02.8  Finding help  <-- 
