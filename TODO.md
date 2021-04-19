@@ -17,6 +17,7 @@ Here we go!
 - What is proxy?
 - git submodule
 - vim 中文的标点符号作为一个字的分隔符
+- linux command curl && telnet
 
 ### Programming
 - Build a my own dictionary
@@ -34,10 +35,13 @@ Here we go!
 
 #### Docs
 - ~~[Documentation/CodingStyle and Beyond](http://www.kroah.com/linux/talks/ols_2002_kernel_codingstyle_paper/codingstyle.ps)~~
-- [A TCP/IP Tutorial](https://tools.ietf.org/html/rfc1180#:~:text=%20%20%201%20IntroductionThis%20tutorial%20contains%20only,Ethernet%20frame%20contains%20the%20destination%20address,...%20More)  <-- 50% (first)
+- [A TCP/IP Tutorial](https://tools.ietf.org/html/rfc1180#:~:text=%20%20%201%20IntroductionThis%20tutorial%20contains%20only,Ethernet%20frame%20contains%20the%20destination%20address,...%20More)  <-- 70% (first)
 - [An Introduction to Bluetooth Programming](http://people.csail.mit.edu/albert/bluez-intro/index.html) <-- 50%
 - [Beej's Guide to Network Programming](http://www.beej.us/guide/bgnet/html/) <-- 10% (second)
 - Vim Manual
     - ~~usr_01.txt~~
     - usr_02.txt
         - 02.8  Finding help  <-- 
+
+### Others
+- Update N4 总结
