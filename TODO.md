@@ -16,13 +16,13 @@ Here we go!
 - What does telnet actually do?
 - What is proxy?
 - git submodule
-- vim 中文的标点符号作为一个字的分隔符
 - linux command curl && telnet
 
 ### Programming
 - Build a my own dictionary
 - Build a my own library
 - the cmu programming lab
+- Build a my own chatroom
 
 
 ### Books && Docs
@@ -39,6 +39,8 @@ Here we go!
 - [An Introduction to Bluetooth Programming](http://people.csail.mit.edu/albert/bluez-intro/index.html) <-- 50%
 - [Beej's Guide to Network Programming](http://www.beej.us/guide/bgnet/html/) <-- 10% (second)
 - [How to become a Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html) <-- 30%
+- [Ryans' Bash Scripting Tutorial](https://ryanstutorials.net/bash-scripting-tutorial/) <-- 10%
+- [POSIX Threads Programming](https://hpc-tutorials.llnl.gov/posix/)
 - [You and your research](http://paulgraham.com/hamming.html)
 - Vim Manual
     - ~~usr_01.txt~~
