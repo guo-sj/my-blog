@@ -31,6 +31,8 @@ Here we go!
 - [The C Programming Language](https://hikage.freeshell.org/books/theCprogrammingLanguage.pdf)  <-- 25%
 - [The Computer System, A programmer's perspective](https://hikage.freeshell.org/books/theCprogrammingLanguage.pdf)  <-- 5%
 - The Practice of Programming
+- the UNIX Programming Environment
+- UNIX: A History and a Memoir
 
 
 #### Docs
