@@ -44,6 +44,7 @@ Here we go!
 - [Ryans' Bash Scripting Tutorial](https://ryanstutorials.net/bash-scripting-tutorial/) <-- 10%
 - [POSIX Threads Programming](https://hpc-tutorials.llnl.gov/posix/)
 - [You and your research](http://paulgraham.com/hamming.html)
+- [Regular-Expression Quick Start](http://www.regular-expressions.info/quickstart.html)
 - Vim Manual
     - ~~usr_01.txt~~
     - usr_02.txt
