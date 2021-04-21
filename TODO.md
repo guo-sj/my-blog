@@ -18,6 +18,7 @@ Here we go!
 - git submodule
 - linux command curl && telnet
 
+
 ### Programming
 - Build a my own dictionary
 - Build a my own library
@@ -37,13 +38,15 @@ Here we go!
 
 #### Docs
 - ~~[Documentation/CodingStyle and Beyond](http://www.kroah.com/linux/talks/ols_2002_kernel_codingstyle_paper/codingstyle.ps)~~
-- [A TCP/IP Tutorial](https://tools.ietf.org/html/rfc1180#:~:text=%20%20%201%20IntroductionThis%20tutorial%20contains%20only,Ethernet%20frame%20contains%20the%20destination%20address,...%20More)  <-- 80% (first)
-- [An Introduction to Bluetooth Programming](http://people.csail.mit.edu/albert/bluez-intro/index.html) <-- 50%
+- ~~[A TCP/IP Tutorial](https://tools.ietf.org/html/rfc1180#:~:text=%20%20%201%20IntroductionThis%20tutorial%20contains%20only,Ethernet%20frame%20contains%20the%20destination%20address,...%20More) ~~
+- [An Introduction to Bluetooth Programming](http://people.csail.mit.edu/albert/bluez-intro/index.html) <-- 70%
 - [Beej's Guide to Network Programming](http://www.beej.us/guide/bgnet/html/) <-- 10% (second)
 - [How to become a Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html) <-- 30%
 - [Ryans' Bash Scripting Tutorial](https://ryanstutorials.net/bash-scripting-tutorial/) <-- 10%
 - [POSIX Threads Programming](https://hpc-tutorials.llnl.gov/posix/)
 - [You and your research](http://paulgraham.com/hamming.html)
+- [Requirements for Internet Hosts -- Communication Layers](https://tools.ietf.org/html/rfc1122)
+- [Requirements for Internet Hosts -- Application and Support](https://tools.ietf.org/html/rfc1123)
 - [Regular-Expression Quick Start](http://www.regular-expressions.info/quickstart.html)
 - Vim Manual
     - ~~usr_01.txt~~
