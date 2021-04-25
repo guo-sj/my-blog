@@ -30,6 +30,10 @@ Here we go!
 - write a anki article: learn first, then memorize, i can defeat any exam! 但是大多数时候，因为各种各样的原因，我们没有学习，就更谈不上复习和记忆
 这种情况，anki就派不上用场。所以提早学习，大量时间用anki复习，就可以应对所有的考试！
 
+#### ANKI 单词登录
+- 《The C programming language》P15
+
+
 ### Books && Docs
 
 #### Books
