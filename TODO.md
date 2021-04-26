@@ -31,7 +31,7 @@ Here we go!
 这种情况，anki就派不上用场。所以提早学习，大量时间用anki复习，就可以应对所有的考试！
 
 #### ANKI 单词登录
-- 《The C programming language》P15
+- 《The C programming language》P20
 
 
 ### Books && Docs
