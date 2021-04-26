@@ -52,7 +52,7 @@ Here we go!
 
 #### Docs
 - ~~[Documentation/CodingStyle and Beyond](http://www.kroah.com/linux/talks/ols_2002_kernel_codingstyle_paper/codingstyle.ps)~~
-- ~~[A TCP/IP Tutorial](https://tools.ietf.org/html/rfc1180#:~:text=%20%20%201%20IntroductionThis%20tutorial%20contains%20only,Ethernet%20frame%20contains%20the%20destination%20address,...%20More) ~~
+- ~~[A TCP/IP Tutorial](https://tools.ietf.org/html/rfc1180#:~:text=%20%20%201%20IntroductionThis%20tutorial%20contains%20only,Ethernet%20frame%20contains%20the%20destination%20address,...%20More)~~
 - [An Introduction to Bluetooth Programming](http://people.csail.mit.edu/albert/bluez-intro/index.html) <-- 70%
 - [Beej's Guide to Network Programming](http://www.beej.us/guide/bgnet/html/) <-- 10% (second)
 - [How to become a Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html) <-- 30%
