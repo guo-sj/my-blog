@@ -37,7 +37,7 @@ Here we go!
 - 《TCP/IP Tutorial》 P7
 
 ##### Japanese
-- 《BLE通信仕样书》P1
+- 《BLE通信仕样书》P11
 
 
 ### Books && Docs
