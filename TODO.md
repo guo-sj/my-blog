@@ -38,6 +38,7 @@ Here we go!
 
 ##### Japanese
 - 《BLE通信仕样书》P11
+- 《蓝宝书的重要语法》
 
 
 ### Books && Docs
