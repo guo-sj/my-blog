@@ -34,7 +34,7 @@ Here we go!
 
 ##### English
 - 《The C programming language》P20
-- 《TCP/IP Tutorial》 P7
+- ~~《TCP/IP Tutorial》~~
 
 ##### Japanese
 - 《BLE通信仕样书》P11
