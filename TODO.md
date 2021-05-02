@@ -33,7 +33,7 @@ Here we go!
 #### ANKI 单词登录
 
 ##### English
-- 《The C programming language》P20
+- 《The C programming language》P34
 - ~~《TCP/IP Tutorial》~~
 
 ##### Japanese
