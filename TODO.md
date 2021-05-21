@@ -20,7 +20,6 @@ Here we go!
 
 
 ### Programming
-- Build a my own dictionary
 - Build a my own library
 - the cmu programming lab
 - Build a my own chatroom
@@ -29,6 +28,7 @@ Here we go!
 ### Self educated
 - write a anki article: learn first, then memorize, i can defeat any exam! 但是大多数时候，因为各种各样的原因，我们没有学习，就更谈不上复习和记忆
 这种情况，anki就派不上用场。所以提早学习，大量时间用anki复习，就可以应对所有的考试！
+- 构建自己的评价体系，抵御自己心中别人对自己的评价对自己生活的影响
 
 #### ANKI 单词登录
 
