@@ -3,15 +3,11 @@
 Here are some questions about What I want to konw about computer, life, etc.  
 Once one question is solved, I will add a stub about it.  
 
-**Spend one hour everyday for self-educating, you will live a happy life.**
+**Spend one hour everyday for self-educating, you will have a happy life.**
 
 Here we go!  
 
 ## computer
-- ~~What does apt work?~~
-- ~~How to install vim plugin?~~
-- ~~Enter vim command mode not by press ':'~~
-- ~~How to set vim dictionary~~?
 - what is symbolic link in linux?
 - What does telnet actually do?
 - What is proxy?
@@ -20,6 +16,7 @@ Here we go!
 
 
 ### Programming
+- vim 脚本，实现自动化html标签
 - Build a my own library
 - the cmu programming lab
 - Build a my own chatroom
@@ -34,7 +31,7 @@ Here we go!
 
 ##### English
 - 《The C programming language》P34
-- 《The UNIX programming environment》P12
+- 《The UNIX programming environment》P33
 - ~~《TCP/IP Tutorial》~~
 
 ##### Japanese
