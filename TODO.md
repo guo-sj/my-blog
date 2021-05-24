@@ -45,7 +45,7 @@ Here we go!
 - 高能效人士的七个习惯 <-- 25%
 - UNIX: A History and a Memoir  <-- 70%
 - [The C Programming Language](https://hikage.freeshell.org/books/theCprogrammingLanguage.pdf)  <-- 25%
-- the UNIX Programming Environment  <-- 10%
+- the UNIX Programming Environment  <-- P41
 - [The Computer System, A programmer's perspective](https://hikage.freeshell.org/books/theCprogrammingLanguage.pdf)  <-- 5%
 - 鹿鼎记4 <-- 40%
 - Hacker <-- 1%
