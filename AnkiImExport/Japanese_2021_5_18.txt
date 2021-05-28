@@ -1,0 +1,42 @@
+ドライバー	driver	Japanese
+センサー	sensor	Japanese
+ディスプレイ	display	Japanese
+ベクタ	vector	Japanese
+割り込み	わりこみ　插入	Japanese
+カウンタ	counter	Japanese
+処理	しょり	Japanese
+スクロール	scroll	Japanese
+水色	みずいろ　淡蓝色	Japanese
+画面	がめん	Japanese
+階層	かいそう　阶层	Japanese
+キー	key	Japanese
+選択	せんたく　选择	Japanese
+網掛け	あみかけ　用图案涂满指定范围。<附一张图来说明>	Japanese
+状態	じょうたい　	Japanese
+分岐	ぶんき　分歧	Japanese
+スライド	slide	Japanese
+左	ひだり	Japanese
+右	みぎ	Japanese
+記載	きさい	Japanese
+詳細は以下の<b>通り</b>	どおり　和...一样	Japanese
+キーワード	keyword	Japanese
+上記	じょうき　上述	Japanese
+箇所	かしょ　地方	Japanese
+伴わなう	ともなう　伴随	Japanese
+ランドリー	laundry  洗衣房	Japanese
+成功	せいこう	Japanese
+失敗	しっぱい	Japanese
+経過	けいか　流逝，过去	Japanese
+無効	むこう　无效	Japanese
+時刻	じこく　时刻	Japanese
+同期	どうき　同时期	Japanese
+環境	かんきょう　环境	Japanese
+表示	ひょうじ　	Japanese
+設定	せってい	Japanese
+午後	ごご　下午	Japanese
+決定	けってい　决定	Japanese
+エアコン	空调	Japanese
+電源	でんげん	Japanese
+ルーチン	routine	Japanese
+機種	きしゅ　机器的种类	Japanese
+キャリブレーション リトライ	calibration retry(校准重试)	Japanese

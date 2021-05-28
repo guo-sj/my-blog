@@ -1,0 +1,42 @@
+シリーズ	series	Japanese
+卓上	たくじょう&nbsp; 台式	Japanese
+リモコン	remote control (遥控器)	Japanese
+Wifiアダプター	wifi adapter	Japanese
+フロー	flow	Japanese
+一括	いっかつ　一起......	Japanese
+纏める	まとめる　集中	Japanese
+掃除	そうじ　打扫	Japanese
+クリーン	clean	Japanese
+運転	うんてん　运行	Japanese
+遷移	せんい　过渡	Japanese
+積み残し	つみのこし　剩下的没有装载的东西	Japanese
+戻る	もどる　返回	Japanese
+シンプル	simple	Japanese
+接続	せつぞく　连接	Japanese
+遠隔	えんかく　远程	Japanese
+互換性	ごかんせい　兼容性	Japanese
+従来	じゅうらい　从来	Japanese
+置き換える	おきかえる　互换	Japanese
+押下	おうか　按下键盘或按钮	Japanese
+室内	しつない　室内，屋内	Japanese
+送る	おくる&nbsp; 发送	Japanese
+信号	しんごう　信号	Japanese
+入	いり　加入	Japanese
+快適	かいてき　舒服	Japanese
+音声	おんせい　声音	Japanese
+通知	つうち　通知	Japanese
+風量	ふうりょう　风量	Japanese
+風向	ふうこう　风向	Japanese
+切り替わる	きりかわる　换成......	Japanese
+ポーリング	polling&nbsp; 轮询	Japanese
+アウト	out	Japanese
+に対して	にたいして　相对于......而言	Japanese
+可能	かのう　可能	Japanese
+施策	しさく　对策，措施	Japanese
+現状	げんじょう　现状	Japanese
+仕組み	しくみ　结构	Japanese
+乗せる	のせる　装上	Japanese
+発信	はっしん　发信	Japanese
+交互	こうご　交错地	Japanese
+認識	にんしき　认识，理解	Japanese
+エミュレータ	emulator&nbsp; &nbsp;模拟器	Japanese
