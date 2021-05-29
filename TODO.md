@@ -42,10 +42,10 @@ Here we go!
 ### Books && Docs
 
 #### Books
-- 高能效人士的七个习惯 <-- 25%
-- UNIX: A History and a Memoir  <-- 70%
-- [The C Programming Language](https://hikage.freeshell.org/books/theCprogrammingLanguage.pdf)  <-- 25%
-- the UNIX Programming Environment  <-- P41
+- 高能效人士的七个习惯 <-- P78/242
+- UNIX: A History and a Memoir  <-- P188/217
+- [The C Programming Language](https://hikage.freeshell.org/books/theCprogrammingLanguage.pdf)  <-- P36/272
+- the UNIX Programming Environment  <-- P45/357
 - [The Computer System, A programmer's perspective](https://hikage.freeshell.org/books/theCprogrammingLanguage.pdf)  <-- 5%
 - 鹿鼎记4 <-- 40%
 - Hacker <-- 1%
