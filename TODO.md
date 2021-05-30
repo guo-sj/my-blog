@@ -31,7 +31,7 @@ Here we go!
 
 ##### English
 - 《The C programming language》P34
-- 《The UNIX programming environment》P35
+- 《The UNIX programming environment》P39  from "History and bibliographic notes" start
 - ~~《TCP/IP Tutorial》~~
 
 ##### Japanese
@@ -46,7 +46,8 @@ Here we go!
 - UNIX: A History and a Memoir  <-- P188/217
 - [The C Programming Language](https://hikage.freeshell.org/books/theCprogrammingLanguage.pdf)  <-- P36/272
 - the UNIX Programming Environment  <-- P45/357
-- [The Computer System, A programmer's perspective](https://hikage.freeshell.org/books/theCprogrammingLanguage.pdf)  <-- 5%
+- [The Computer System, A programmer's perspective](https://hikage.freeshell.org/books/theCprogrammingLanguage.pdf)  <-- P108-112
+    - Floating Point P108-102
 - 鹿鼎记4 <-- 40%
 - Hacker <-- 1%
 - The Practice of Programming
