@@ -15,3 +15,6 @@ Use for any other reason is <b>prohibited</b>, and may result in permanent loss 
 Three core cmdlets allow you to <b>delve into</b> what cmdlets exist and what they do.	to try hard to find out more information about sth (探索，探究)	LongTermLearing
 Or use an alias help command to invoke Get-Help but improve the reading experience by <b>paginating</b> the response.	to give a number to each page of a book. (给书标注页码)	LongTermLearing
 Use the Get-Member core cmdlet to <b>drill down</b> into that response and learn more about it.	to go to deeper levels of an organized set of data in order to find more detail, especially on a computer or a website (自顶向下搜索)	LongTermLearing
+An alternate way to set <i>PATH</i> in this specific case is simply to <b>augment</b> the previous value: <i>PATH=PATH:/usr/games</i>	增加
+We have <b>by no means<sub>[1]</sub></b> <b>exhausted<sub>[2]</sub><b> the services that the shell provides.	[1]  绝不    [2] to talk about or study a subject until there is noting else to say about it(详尽讨论)
+And <b>esoterica</b> such as <i>units(1)</i> <i>

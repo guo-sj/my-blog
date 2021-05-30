@@ -31,7 +31,7 @@ Here we go!
 
 ##### English
 - 《The C programming language》P34
-- 《The UNIX programming environment》P33
+- 《The UNIX programming environment》P35
 - ~~《TCP/IP Tutorial》~~
 
 ##### Japanese
