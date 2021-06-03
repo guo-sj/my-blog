@@ -35,7 +35,6 @@ Here we go!
 - ~~《TCP/IP Tutorial》~~
 
 ##### Japanese
-- 《BLE通信仕样书》P11
 - 《蓝宝书的重要语法》
 
 
@@ -45,7 +44,7 @@ Here we go!
 - 高能效人士的七个习惯 <-- P78/242
 - UNIX: A History and a Memoir  <-- P188/217
 - [The C Programming Language](https://hikage.freeshell.org/books/theCprogrammingLanguage.pdf)  <-- P36/272
-- the UNIX Programming Environment  <-- P45/357
+- the UNIX Programming Environment  <-- P52/357
 - [The Computer System, A programmer's perspective](https://hikage.freeshell.org/books/theCprogrammingLanguage.pdf)  <-- P108-112
     - Floating Point P108-115
 - 鹿鼎记4 <-- 40%
@@ -62,7 +61,7 @@ Here we go!
 #### Docs
 - ~~[Documentation/CodingStyle and Beyond](http://www.kroah.com/linux/talks/ols_2002_kernel_codingstyle_paper/codingstyle.ps)~~
 - ~~[A TCP/IP Tutorial](https://tools.ietf.org/html/rfc1180#:~:text=%20%20%201%20IntroductionThis%20tutorial%20contains%20only,Ethernet%20frame%20contains%20the%20destination%20address,...%20More)~~
-- [How to become a Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html) <-- 30%
+- ~~[How to become a Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html)~~
 - [An Introduction to Bluetooth Programming](http://people.csail.mit.edu/albert/bluez-intro/index.html) <-- 70%
 - [Beej's Guide to Network Programming](http://www.beej.us/guide/bgnet/html/) <-- 10% (second)
 - [Ryans' Bash Scripting Tutorial](https://ryanstutorials.net/bash-scripting-tutorial/) <-- 10%
@@ -78,3 +77,4 @@ Here we go!
 
 ### Others
 - ~~Update N4 总结~~
+- 完成story`黄金大劫案`
