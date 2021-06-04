@@ -22,20 +22,28 @@ Here we go!
 - Build a my own chatroom
 
 
-### Self educated
+## Self educated
 - write a anki article: learn first, then memorize, i can defeat any exam! 但是大多数时候，因为各种各样的原因，我们没有学习，就更谈不上复习和记忆
 这种情况，anki就派不上用场。所以提早学习，大量时间用anki复习，就可以应对所有的考试！
 - 构建自己的评价体系，抵御自己心中别人对自己的评价对自己生活的影响
 
-#### ANKI 单词登录
+### ANKI 单词登录
 
-##### English
+#### English
 - 《The C programming language》P34
 - 《The UNIX programming environment》P39  from "History and bibliographic notes" start
 - ~~《TCP/IP Tutorial》~~
 
-##### Japanese
+#### Japanese
 - 《蓝宝书的重要语法》
+
+### Online Courses
+- [PowerShell](https://docs.microsoft.com/en-us/learn/paths/powershell/)
+    - ~~[Introduction to PowerShell](https://docs.microsoft.com/en-us/learn/modules/introduction-to-powershell/)~~
+    - [Connect commands into a pipeline](https://docs.microsoft.com/en-us/learn/modules/connect-commands/)
+    - [Write your first PowerShell code](https://docs.microsoft.com/en-us/learn/modules/powershell-write-first/)
+    - [Introduction to scripting in PowerShell](https://docs.microsoft.com/en-us/learn/modules/script-with-powershell/)
+    - [Automate Azure tasks using scripts with PowerShell](Automate Azure tasks using scripts with PowerShell)
 
 
 ### Books && Docs
@@ -57,7 +65,6 @@ Here we go!
 - Harry Potter 3
 - 鹿鼎记5
 
-
 #### Docs
 - ~~[Documentation/CodingStyle and Beyond](http://www.kroah.com/linux/talks/ols_2002_kernel_codingstyle_paper/codingstyle.ps)~~
 - ~~[A TCP/IP Tutorial](https://tools.ietf.org/html/rfc1180#:~:text=%20%20%201%20IntroductionThis%20tutorial%20contains%20only,Ethernet%20frame%20contains%20the%20destination%20address,...%20More)~~
@@ -75,6 +82,7 @@ Here we go!
     - ~~usr_01.txt~~
     - usr_02.txt
         - 02.8  Finding help  <-- 
+
 
 ### Others
 - ~~Update N4 总结~~
