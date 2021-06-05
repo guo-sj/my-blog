@@ -106,9 +106,13 @@ syntax on
 filetype plugin indent on
 
 " normal mode map
-nnoremap - :
-nnoremap = <C-D>
-nnoremap \ <C-U>
+nnoremap <F9> :w<CR>
+nnoremap <F10> :q<CR>
+nnoremap <F11> :qa<CR>
+nnoremap <Up> <C-W>k
+nnoremap <Down> <C-W>j
+nnoremap <Left> <C-W>h
+nnoremap <Right> <C-W>l
 
 " set dictionary
 set dictionary+=/usr/share/dict/words
