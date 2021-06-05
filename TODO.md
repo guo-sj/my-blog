@@ -16,7 +16,6 @@ Here we go!
 
 
 ### Programming
-- vim 脚本，实现自动化html标签
 - Build a my own library
 - the cmu programming lab
 - Build a my own chatroom
@@ -31,7 +30,7 @@ Here we go!
 
 #### English
 - 《The C programming language》P34
-- 《The UNIX programming environment》P39  from "History and bibliographic notes" start
+- 《The UNIX programming environment》P52
 - ~~《TCP/IP Tutorial》~~
 
 #### Japanese
@@ -43,7 +42,7 @@ Here we go!
     - [Connect commands into a pipeline](https://docs.microsoft.com/en-us/learn/modules/connect-commands/)
     - [Write your first PowerShell code](https://docs.microsoft.com/en-us/learn/modules/powershell-write-first/)
     - [Introduction to scripting in PowerShell](https://docs.microsoft.com/en-us/learn/modules/script-with-powershell/)
-    - [Automate Azure tasks using scripts with PowerShell](Automate Azure tasks using scripts with PowerShell)
+    - [Automate Azure tasks using scripts with PowerShell](https://docs.microsoft.com/en-us/learn/modules/automate-azure-tasks-with-powershell/)
 
 
 ### Books && Docs
@@ -53,7 +52,7 @@ Here we go!
 - UNIX: A History and a Memoir  <-- P188/217
 - [The C Programming Language](https://hikage.freeshell.org/books/theCprogrammingLanguage.pdf)  <-- P36/272
 - the UNIX Programming Environment  <-- P52/357
-- [The Computer System, A programmer's perspective](https://hikage.freeshell.org/books/theCprogrammingLanguage.pdf)  <-- P108-112
+- The Computer System, A programmer's perspective  <-- P108-112
     - Floating Point P108-115
 - 鹿鼎记4 <-- 40%
 - Hacker <-- 1%
