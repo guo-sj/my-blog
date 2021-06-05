@@ -1,0 +1,43 @@
+opacity	the fact of being difficult to see through; the fact of being OPAQUE(不透明性)	LongTermLearing
+dashboard	the part of a car in front of the driver that has instruments and controls in it(汽车上的仪表盘)	LongTermLearing
+<b>Rejoice</b>, your text is now harder to read!	to express great happiness about sth(非常高兴)	LongTermLearing
+This <b>asymmetry</b> is due to the fact that \n and \r do slightly different things.	不对称的	LongTermLearing
+The race organizers are trying to attract <b>sponsor</b>.	赞助商	LongTermLearing
+Sports events <b>sponsored</b> by the tobacco industry.	赞助	LongTermLearing
+The documents are available for <b>inspection</b>.	the act of looking closely at sth/sb, especially to check that everything is at it should be(检查，查看)	LongTermLearing
+James misses driving <b>lay-up</b>	单手上篮	LongTermLearing
+<b>diacritical</b> characters	变音符// 插入图片说明	LongTermLearing
+In a console, you can run <b>batches</b> of commands, so it's ideal for task automation for continuous-integration pipelines.	a number of people or things that are <b>dealt</b> with as a group(一批)  dealt: deal 的过去式，过去分词	LongTermLearing
+In many systems, especially government systems, everything must be traced and evaluated, or <b>audited</b>.	an official examination of business and financial records to see that they are true and correct(审计，审查)	LongTermLearing
+The words <i>command</i> and <i>cmdlet</i> are often used <b>interchangeably</b> because a cmdlet is a type of command.	that can be exchanged, especially without affecting the way in which sth works(可交换的，可替换的)	LongTermLearing
+This extension lets you run commands and also helps you with <b>snippets</b>, code completion, and syntax highlighting.	a small piece of information or news(一小条消息)	LongTermLearing
+Use for any other reason is <b>prohibited</b>, and may result in permanent loss of access to the sandbox.	to stop sth from being done or used especially by law(尤指以法令方式禁止)	LongTermLearing
+Three core cmdlets allow you to <b>delve into</b> what cmdlets exist and what they do.	to try hard to find out more information about sth (探索，探究)	LongTermLearing
+Or use an alias help command to invoke Get-Help but improve the reading experience by <b>paginating</b> the response.	to give a number to each page of a book. (给书标注页码)	LongTermLearing
+Use the Get-Member core cmdlet to <b>drill down</b> into that response and learn more about it.	to go to deeper levels of an organized set of data in order to find more detail, especially on a computer or a website (自顶向下搜索)	LongTermLearing
+An alternate way to set <i>PATH</i> in this specific case is simply to <b>augment</b> the previous value: <i>PATH=PATH:/usr/games</i>	增加	LongTermLearing
+We have <b>by no means<sub>[1]</sub></b> <b>exhausted<sub>[2]</sub><b> the services that the shell provides.	[1]  绝不    [2] to talk about or study a subject until there is noting else to say about it(详尽讨论)	LongTermLearing
+And <b>esoterica</b> such as <i>units(1)</i>	likely to be understood or enjoyed by only a few people with a special knowledge or interest(只有内行才懂的).	LongTermLearing
+Although the program interrelationships are never made explicit in the manual, they form the <b>fabric</b> of the UNIX programming environment.	the basic structure of a society, an organization, etc. that enables it to function successful(结构)	LongTermLearing
+<i>The Bell System Technical Journal (BSTJ)</i> special issue on the UNIX system (July, 1978) contains many papers describing <b>subsequent<sub>[1]</sub></b> developments, and some <b>retrospective<sub>[2]</sub></b> material, including an update of the original CACM paper by Ritchie and Thompson.	[1]  happening or coming after sth else (随后的)      [2]  thinking about or connected with sth that happened in the past (回顾的，涉及以往的)	LongTermLearing
+The <i>UNIX Programmer's Manual</i>, in whatever version is appropriate for your system, lists commands, system routines and interfaces, file formats, and <b>maintenance</b> procedures.	the act of making a state or situation continue(维持，保持)	LongTermLearing
+<i>A UNIX <b>Primer</b></i>, by Ann and Nico Lomuto (Prentice-Hall, 1983), is a good introduction for raw beginners, especially non-programmers.	a book that contains basic instruction(入门书)	LongTermLearing
+That is less of an oversimplification than you might think.	这可不像你想象的那么简单。	LongTermLearing
+No structure is imposed on a file by the system, and no meaning is attached to its contents -- the meaning of the bytes depends <b>solely</b> on the programs that interpret the file.	only(只，仅仅)	LongTermLearing
+Furthermore, as we shall see, this is true not just of disc files but of <b>peripheral</b> devices as well.	外围的	LongTermLearing
+Magnetic tapes, mail messages, characters typed on the keyboard, line printer output, data flowing in pipes -- each of these files is just a sequence of bytes <b> as far as </b> the system and the programs in it <b> are concerned.</b>.	就... 而言。 这里的意思是：就系统和其中的程序而言，每个文件就像是一串字符序列。	LongTermLearing
+The 7-digit numbers down the left side are positions in the file, that is, the <b>ordinal</b> number of the next character shown, in octal.	序数词，如 first, second, etc.	LongTermLearing
+By the way, the emphasis on octal numbers is a <b>holdover</b> from the PDP-11, for which octal was the preferred notation.	遗留下的东西。这里的意思是：8进制数是从PDP-11那里留存下来的东西。	LongTermLearing
+If you type '\\', however, the kernel interprets that to mean that you want a literal backspace in the input, so the '\' is discarded and the byte '010' <b>winds up</b> in your file.	以...的样子结束。 这里的意思是：如果你输入'\\'，那么内核就会把它解释成八进制数'010'	LongTermLearing
+Rather than using a special code, the system <b>signifies</b> the end of a file by simply saying there is no more data in the file	to be a sign of sth (预示，表示)	LongTermLearing
+One reason is to avoid <b>foreclosing</b> some useful computation.	to reject sth as a possibility.(排除...的可能性)	LongTermLearing
+And it would certainly make it harder for us to <b>typeset</b> the C programs in chapter 6~8.	排版	LongTermLearing
+Instead of creating distinctions, the UNIX system tries to <b>efface</b> them.	to make sth disappear(消除)	LongTermLearing
+The <b>transcripts</b> you see on almost every page are made by commands like: <i>od -c junk >temp   ed ch2.1 ...</i>, 'od' produces text on its standard output, which can be used anywhere text can be used.	a written or printed copy of words that has been spoken(打印本，手抄本)	LongTermLearing
+This <b>uniformity</b> is unusual; most systems have several file formats, even for text, and require negotiation by a program or a user to create a file of a particular type.	统一性	LongTermLearing
+Whenever you <b>embark</b> on a new project, or whenever you have a set of related files, say a set of recipes, you could create a new directory with <i>mkdir</i> and put the files there.	to get onto a ship; to put sth onto a ship(上船，装船)	LongTermLearing
+For example, the <b>crust</b> recipe could be kept in <i>recipes/pie/crust</i> rather than duplicating it in each pie recipe.	馅饼的酥皮	LongTermLearing
+The obvious solution is a command or two to <b>rummage</b> around in directories.	to move things carefully while searching for sth (翻阅，翻查)	LongTermLearing
+But they(directories) can't be created or written as ordinary files -- to preserve its <b>sanity</b> and the users' files, the kernel reserves to itself all control over the contents of directories.	the state of being sensible and reasonable(明智，理智)	LongTermLearing
+You could therefore change the permissions on each letter to <b>frustrate gossip<sub>[1]</sub></b> (or only on some of the letters, to encourage it), or you might just change the permissions on the directories containing the letters, and <b>thwart snoopers<sub>[2]</sub></b> that way.	[1]  阻止流言蜚语      [2] 阻止窥探者	LongTermLearing
+The former requires <b>malfeasance</b> and the latter takes hard work, however, <i>crypt</i> is in practice fairly secure.	渎职（滥用职权， 玩忽职守）	LongTermLearing
