@@ -29,7 +29,7 @@ Here we go!
 ### ANKI 单词登录
 
 #### English
-- 《The C programming language》P34
+- 《The C programming language》P40
 - 《The UNIX programming environment》P52
 - ~~《TCP/IP Tutorial》~~
 
