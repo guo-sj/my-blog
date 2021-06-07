@@ -69,6 +69,10 @@ Here we go!
 - ~~[A TCP/IP Tutorial](https://tools.ietf.org/html/rfc1180#:~:text=%20%20%201%20IntroductionThis%20tutorial%20contains%20only,Ethernet%20frame%20contains%20the%20destination%20address,...%20More)~~
 - ~~[How to become a Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html)~~
 - [Beej's Guide to Network Programming](http://www.beej.us/guide/bgnet/html/) <-- 10% (second)
+- [GDB first 3 chapters](https://sourceware.org/gdb/current/onlinedocs/gdb/)
+    - [A Sample GDB Session](https://sourceware.org/gdb/current/onlinedocs/gdb/Sample-Session.html#Sample-Session)
+    - [Getting IN and Out of GDB](https://sourceware.org/gdb/current/onlinedocs/gdb/Invocation.html#Invocation)
+    - [GDB Commands](https://sourceware.org/gdb/current/onlinedocs/gdb/Commands.html#Commands)
 - [Ryans' Bash Scripting Tutorial](https://ryanstutorials.net/bash-scripting-tutorial/) <-- 10%
 - [POSIX Threads Programming](https://hpc-tutorials.llnl.gov/posix/)
 - [You and your research](http://paulgraham.com/hamming.html)
