@@ -50,8 +50,8 @@ Here we go!
 #### Books
 - 高能效人士的七个习惯 <-- P78/242
 - UNIX: A History and a Memoir  <-- P188/217
-- [The C Programming Language](https://hikage.freeshell.org/books/theCprogrammingLanguage.pdf)  <-- P36/272
-- the UNIX Programming Environment  <-- P52/357
+- [The C Programming Language](https://hikage.freeshell.org/books/theCprogrammingLanguage.pdf)  <-- P42/272
+- the UNIX Programming Environment  <-- P54/357
 - The Computer System, A programmer's perspective  <-- P108-112
     - Floating Point P108-115
 - 鹿鼎记4 <-- 40%
@@ -70,7 +70,7 @@ Here we go!
 - ~~[How to become a Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html)~~
 - [Beej's Guide to Network Programming](http://www.beej.us/guide/bgnet/html/) <-- 10% (second)
 - [GDB first 3 chapters](https://sourceware.org/gdb/current/onlinedocs/gdb/)
-    - [A Sample GDB Session](https://sourceware.org/gdb/current/onlinedocs/gdb/Sample-Session.html#Sample-Session)
+    - ~~[A Sample GDB Session](https://sourceware.org/gdb/current/onlinedocs/gdb/Sample-Session.html#Sample-Session)~~
     - [Getting IN and Out of GDB](https://sourceware.org/gdb/current/onlinedocs/gdb/Invocation.html#Invocation)
     - [GDB Commands](https://sourceware.org/gdb/current/onlinedocs/gdb/Commands.html#Commands)
 - [Ryans' Bash Scripting Tutorial](https://ryanstutorials.net/bash-scripting-tutorial/) <-- 10%
