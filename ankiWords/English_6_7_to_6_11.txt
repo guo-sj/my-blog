@@ -1,0 +1,25 @@
+In the world of VBA programming, Word <b>exposes</b> a Document object. 	to show sth that is usually hidden(暴露，显露)	LongTermLearning
+If you think of the object as a noun, the properties are the adjectives that describe the noun and the methods are the verbs that <b>animate</b> the noun.	to make sth more lively or full of energy(使具有活力，使生机勃勃)	LongTermLearning
+That sounds simple, but it can be incredibly useful; once you can write that code, you can <b>harness</b> all of the power of programming to make those same changes in several tables or documents, or make them according to some logic or condition. 	to control and use the force or strength of sth to produce power or to achieve sth (控制，利用)	LongTermLearning
+Although it is installed by default, many users do not know that it is even available until it is enabled on the <b>ribbon</b>.	彩带，这里指的是office上“File, Home...”按钮所在的彩带。	LongTermLearning
+Record Macro is a <b>terrific</b> tool that you can use to learn more about VBA.	excellent; wonderful(极好的，绝妙的)	LongTermLearning
+The only <b>caveat</b> is that the generated code can be confusing because the Macro editor must make some assumptions about your intentions, and those assumptions are not necessarily accurate.	a warning that particular things need to be considered before sth can be done (警告，告诫)	LongTermLearning
+The VBA community is very large; a search on the Web can almost always <b>yield</b> an example of VBA code that does something similar to what you want to do. 	to produce or rovide sth, for example a profit, result or crop(产生...)	LongTermLearning
+That does not mean that free and well-thought-out code is on the Web waiting for you to <b>come along</b>. 	to arrive, to appear (到达，抵达)	LongTermLearning
+There are two main types of programming errors: syntax errors, which <b>violate</b> the grammatical rules of the programming language, and run-time errors, which look syntactically correct, but fail when VBA attempts to execute the code. 	to go against or refuse to obey a law, an agreement, etc. (违反，违背)	LongTermLearning
+Of course the Microsoft Office Developer Center is an excellent <b>portal</b> for articles, tips, and community information.	a website that is used as a point of entry to the Internet, where information has been collected that will be useful to a person interested in particular kinds of things (门户)	LongTermLearning
+Fortunately, the Internet has <b>fostered</b> a community of developers who help each other solve programming problems.	to encourage sth to develop (鼓励某事发展)	LongTermLearning
+The following are a few points of <b>etiquette</b> to follow when you post to a developer forum	(社会或行业中的)礼节，礼仪，规矩	LongTermLearning
+Take the time to write your post as well as you can, especially if you are <b>flustered</b> or in a hurry.	fluster: to make sb nervous and/or confused, especially by giving them a lot to do or making them hurry. (使忙乱，使慌乱)。这里是形容词，意为“慌乱的”	LongTermLearning
+<b>recipients</b> of awards	a person who receives sth(接受者)，这个短语的意思是：获奖者	LongTermLearning
+The word “async” before a function means one simple thing: a function always returns a <b>promise</b>.	a statement that tells sb that you will definitely do or not do sth(许诺，承诺)	LongTermLearning
+Other values are wrapped in a <b>resolved</b> promise automatically.	determined (下定决心的，坚定的)	LongTermLearning
+One of the <b>preliminary</b> versions of GNU m4 (a generic macro processor) exhibits the following bug:	happening before a more important action or event(预备性的，初步的)	LongTermLearning
+I referred to them as swans but my coworker pointed out that they are <b>geese</b>	goose (鹅)	LongTermLearning
+A fish <b>pond</b>	池塘，水池（尤指人工的）	LongTermLearning
+These <b>goslings</b> have grown up quickly in our Fujitsu pond.	a young goose(幼鹅)	LongTermLearning
+<b>Resizes</b> the specified range.	to make sth bigger or smaller, especially an image on a computer screen(改变(计算机图像)的大小)	LongTermLearning
+In GDB, <i>-e file</i> uses file <i>file</i> as the executable file to execute when appropriate, and for examining pure data <b>in conjunction with</b> a core dump.	together with(与...一起)	LongTermLearning
+When GDB starts, it reads any arguments <b>other than</b> options as specifying an executable file and core file (or process ID).	except (除了...)	LongTermLearning
+They <b>swaggered</b> into the room.	(usually disapproving) to walk in an extremly proud and confident way(神气十足的走)	LongTermLearning
+When we write our code using objects to represent <b>entities</b>, that’s called object-oriented programming, in short: “OOP”.	something that exists separately from other things and has its own identity(独立存在物，实体)	LongTermLearning
