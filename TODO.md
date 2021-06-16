@@ -27,7 +27,6 @@ Here we go!
 - 构建自己的评价体系，抵御自己心中别人对自己的评价对自己生活的影响
 
 ### ANKI 单词登录
-
 #### English
 - 《The C programming language》P40
 - 《The UNIX programming environment》P52
@@ -44,6 +43,8 @@ Here we go!
     - [Introduction to scripting in PowerShell](https://docs.microsoft.com/en-us/learn/modules/script-with-powershell/)
     - [Automate Azure tasks using scripts with PowerShell](https://docs.microsoft.com/en-us/learn/modules/automate-azure-tasks-with-powershell/)
 
+### Money Course
+- 第十一周晚课笔记 货币资金  <-- 60%
 
 ### Books && Docs
 
@@ -63,6 +64,7 @@ Here we go!
 - 只为一碗好面
 - Harry Potter 3
 - 鹿鼎记5
+- 穷查理宝典
 
 #### Docs
 - ~~[Documentation/CodingStyle and Beyond](http://www.kroah.com/linux/talks/ols_2002_kernel_codingstyle_paper/codingstyle.ps)~~
