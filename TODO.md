@@ -52,7 +52,7 @@ Here we go!
 - 高能效人士的七个习惯 <-- P78/242
 - UNIX: A History and a Memoir  <-- P188/217
 - [The C Programming Language](https://hikage.freeshell.org/books/theCprogrammingLanguage.pdf)  <-- P44/272
-- the UNIX Programming Environment  <-- P57/357
+- the UNIX Programming Environment  <-- P59/357
 - The Computer System, A programmer's perspective  <-- P108-112
     - Floating Point P108-115
 - 鹿鼎记4 <-- 40%
