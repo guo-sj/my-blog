@@ -28,8 +28,8 @@ Here we go!
 
 ### ANKI 单词登录
 #### English
-- 《The C programming language》P40
-- 《The UNIX programming environment》P52
+- 《The C programming language》P44
+- 《The UNIX programming environment》P59
 - ~~《TCP/IP Tutorial》~~
 
 #### Japanese
