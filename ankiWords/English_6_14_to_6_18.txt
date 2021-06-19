@@ -1,0 +1,38 @@
+In real life, most security <b>breaches</b> are due to passwords that are given away or easily guessed.	an action that breaks an agreement to behave in a particular way    破坏	LongTermLearning
+Occasionally, system administrative <b>lapses</b> make it possible for a malicious user to gain super-user permission.	a small mistake, especially one that is caused by forgotting sth or by being careless    小错误	LongTermLearning
+Anybody can read the password file (you just did), so if your password file itself were there, anyone would be able to use it to <b>masquerade as</b> you.	to pretend to be sth that you are not(乔装)	LongTermLearning
+The next three characters <i>(r--)</i> encode group permissions, in this case that people in group <i>admin</i>, presumably the system administrators, can read the file but not write or execute it.	used to say that you think that sth is probably true    大概	LongTermLearning
+A <b>plausible</b> alternative would be for group <i>admin</i> to also have write permission on <i>/tec/password</i>.	reasonable and likely to be true    有道理的，可信的	LongTermLearning
+(加一张图片P54)But the <i>s</i> instead of an <i>x</i> in the execute field for the file owner states that, when the command is run, it is to be given the permissions <b>corresponding to</b> the file owner, in this case <i>root</i>.	to be similar to or the same as sth else    类似于，相当于	LongTermLearning
+The set-uid bit is <b>patented</b> by Dennis Ritchie.	申请专利	LongTermLearning
+But the set-uid concept is potentially dangerous, <i>/bin/passwd</i> has to be correct, if it were not, it could destroy system information <b>under</b> root's <b>auspices</b>.	在...的帮助下	LongTermLearning
+Except for the usual <b>disclaimer</b> about super-users, only the owner of a file may change the permissions on a file, regardless of the permissions themselves.	免责声明	LongTermLearning
+The administrative information is stored in the inode (over the years, the <b>hyphen</b> fell out of "i-node"), along with essential system data such as how long it is, where on the disc the contents of the file are stored, and so on.	the mark(-)    连字符	LongTermLearning
+His hair is <b>falling out</b>.	to become loose and drop    掉落	LongTermLearning
+The next file created in this directory will go into the unused <b>slot</b>, although it will probably have a different i-number.	a position    位置	LongTermLearning
+The <b>binary<sub>[1]</sub></b> + and - operators have the same precedence, which is lower than the precedence of *, /, and %, which is in turn lower than <b>unary<sub>[2]</sub></b> + and -.	[1]  二元运算符      [2]  一元运算符	LongTermLearning
+The <b>relational operators</b> are >, >=, <, <=.	关系运算符	LongTermLearning
+The unary <b>negation</b> operator ! converts a non-zero operand into 0, and a zero operand into 1.	the exact opposite of sth    反面，对立面	LongTermLearning
+Expressions that might lose information, like assigning a longer integer type to a shorter, or a floating-point type to an integer, may <b>draw</b> a warning, but they are not illegal.	to produce a reaction or response    引起	LongTermLearning
+A char is just a small integer, so chars may be freely used in arithmetic expressions. One is <b>exemplified</b> by this naive implementation of the function <i>atoi</i>, which converts a string of digits into its numeric equivalent.	to give an example in order to make sth clear    举例说明	LongTermLearning
+This latter <b>observation</b> is not true of the EBCIDC character set, however, so this code would convert more than just letters in EBCIDC.	结论	LongTermLearning
+The Brooklyn Nets needed much more than points Tuesday night, so Durant gave them one of the most <b>spectacular</b> performances in postseason history.	very impressive    壮观的	LongTermLearning
+“I know the <b>perception</b> of me is that I can score the basketball well, but any team that I’ve played on, I’ve been asked to do pretty much everything from rebounding to defending to initiating to scoring,” Durant said. “I might not do it all the time but I do a little bit of everything.”	the way you notice things, especially with the senses    感知	LongTermLearning
+Nets <b>forward</b> Jeff Green.	前锋	LongTermLearning
+Achilles	跟腱	LongTermLearning
+hamstring	后腿肌腱	LongTermLearning
+The Bucks had all the <b>momentum</b> after winning the two games in Milwaukee. 	the ability to keep increasing or developing    势头	LongTermLearning
+With Irving <b>spraining</b> his ankle in the second quarter of Game 4.	扭伤	LongTermLearning
+It appeared Durant would be the only one of the three superstars to play Tuesday — which <b>given the way he played</b>, may have been enough anyway.	考虑到他的打法	LongTermLearning
+The Nets originally <b>ruled</b> Harden <b>out</b> on Monday, then upgraded him Tuesday first to doubtful and then questionable.	to state that sth is not possible or that sb/sth is not suitable    把......排除在外	LongTermLearning
+Harden <b>worked out</b> before the game and seemed to be moving well.	to find the answer to sth   解决，寻找答案	LongTermLearning
+But he didn’t appear to have full strength in his leg, leaving jumpers short and rarely beating anyone on the <b>dribble</b>.	运球	LongTermLearning
+<b>Credit to</b> him, some tough shots, so we've got to look at it, figure out getting better.	to believe or say that sb is responsible for doing sth, especially sth good    归功于...	LongTermLearning
+Durant’s basket <b>got</b> it <b>down</b> to 42-33 before Antetokounmpo rattled in a 3-pointer and follow with two more baskets to push the lead to 16, which is where it still was when the Bucks took a 59-43 lead to the half.	to make sb feel sad or depressed    使悲伤，使沮丧	LongTermLearning
+He was clearly <b>rattled</b> by the question.	to make sb nervous or frightened    使紧张，使恐惧	LongTermLearning
+He also was the only player to receive All-NBA first-team votes on all 100 <b>ballots</b>, earning his third consecutive first-team selection.	the piece of paper on which sb marks who they are voting for    选票	LongTermLearning
+The Nets <b>paid tribute to</b> announcer Marv Albert, who was calling the game courtside for TNT. 	对...高度评价	LongTermLearning
+Harden has never won an NBA title and pushed to <b>get back</b> for this game once it became clear the Nets wouldn't have Irving.	to return 返回	LongTermLearning
+“So James is driving this," Nash said. "We have to try to support him the best way we can and be an <b>aide</b> for him to figure this out, but it’s a tricky situation but it’s one that we’re willing to go down with James.”	a person who helps another person, especially a politician, in their job     (尤指从政者的)助手	LongTermLearning
+Getting it to fit exactly is a tricky business.	difficult to do or deal with    难办的	LongTermLearning
+	LongTermLearning
