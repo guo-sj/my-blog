@@ -1,0 +1,6 @@
+ For example, the command step accepts an argument which is the number of times to step, <b>as in</b> ‘step 5’.	例如。
+This game is a <b>variant</b> of baseball.	a thing that is a slightly different form or type of sth else (变种)
+To stop a search when this wraparound occurs, save the address of the first found cell, and then test each successive found-cell address <b>against</b> this saved address.	used when you are comparing two things (和...相比)
+This is because of many reasons, and in this section, we will show you how to <b>rectify<b> this error and debug the code.	to put right sth that is wrong (矫正，改正)
+They were <b>coerced</b> into negotiating a settlement.	to force sb to do sth by using threats(强迫，胁迫)
+Durant's <b>sensational</b> performance sends Nets to 3-2 lead.	causing great surprise, excitement, or interest(轰动的)
