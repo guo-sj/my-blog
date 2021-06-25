@@ -43,6 +43,16 @@ Here we go!
     - [Introduction to scripting in PowerShell](https://docs.microsoft.com/en-us/learn/modules/script-with-powershell/)
     - [Automate Azure tasks using scripts with PowerShell](https://docs.microsoft.com/en-us/learn/modules/automate-azure-tasks-with-powershell/)
 
+- [C++ Tutorials](https://www.cplusplus.com/doc/tutorial/)
+    - Introduction
+        - [Compilers](https://www.cplusplus.com/doc/tutorial/introduction/)
+    - Basics of C++
+        - [Structure of a program](https://www.cplusplus.com/doc/tutorial/program_structure/)
+        - [Variables and types](https://www.cplusplus.com/doc/tutorial/variables/)
+        - [Constants](https://www.cplusplus.com/doc/tutorial/constants/)
+        - [Operators](https://www.cplusplus.com/doc/tutorial/operators/)
+        - [Basic Input/Output](https://www.cplusplus.com/doc/tutorial/basic_io/)
+
 ### Money Course
 - 第十一周晚课笔记 货币资金  <-- 60%
 
