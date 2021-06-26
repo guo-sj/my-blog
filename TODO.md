@@ -102,3 +102,4 @@ Here we go!
 ### Others
 - ~~Update N4 总结~~
 - 完成story`黄金大劫案`
+- 增加anki的在线读音
