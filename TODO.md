@@ -33,7 +33,7 @@ Here we go!
 - ~~《TCP/IP Tutorial》~~
 
 #### Japanese
-- 《蓝宝书的重要语法》
+- 日语日常用语
 
 ### Online Courses
 - [PowerShell](https://docs.microsoft.com/en-us/learn/paths/powershell/)
@@ -102,4 +102,3 @@ Here we go!
 ### Others
 - ~~Update N4 总结~~
 - 完成story`黄金大劫案`
-- 增加anki的在线读音
