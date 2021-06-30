@@ -8,12 +8,6 @@ Once one question is solved, I will add a stub about it.
 Here we go!  
 
 ## computer
-- what is symbolic link in linux?
-- What does telnet actually do?
-- What is proxy?
-- git submodule
-- linux command curl && telnet
-
 
 ### Programming
 - Build a my own library
@@ -24,7 +18,7 @@ Here we go!
 ## Self educated
 - write a anki article: learn first, then memorize, i can defeat any exam! 但是大多数时候，因为各种各样的原因，我们没有学习，就更谈不上复习和记忆
 这种情况，anki就派不上用场。所以提早学习，大量时间用anki复习，就可以应对所有的考试！
-- 构建自己的评价体系，抵御自己心中别人对自己的评价对自己生活的影响
+- **写下自己的使命宣言**
 
 ### ANKI 单词登录
 #### English
@@ -59,10 +53,10 @@ Here we go!
 ### Books && Docs
 
 #### Books
-- 高能效人士的七个习惯 <-- P78/242
+- 高能效人士的七个习惯 <-- P114/242
 - UNIX: A History and a Memoir  <-- P188/217
 - [The C Programming Language](https://hikage.freeshell.org/books/theCprogrammingLanguage.pdf)  <-- P48/272
-- the UNIX Programming Environment  <-- P60/357
+- the UNIX Programming Environment  <-- P61/357
 - The Computer System, A programmer's perspective  <-- P108-112
     - Floating Point P108-115
 - 鹿鼎记4 <-- 40%
@@ -75,6 +69,8 @@ Here we go!
 - Harry Potter 3
 - 鹿鼎记5
 - 穷查理宝典
+- [Developing Talent in Young People](https://www.amazon.com/exec/obidos/ASIN/034531509X/)
+- [Outliers: The Story of Success](https://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017922)
 
 #### Docs
 - ~~[Documentation/CodingStyle and Beyond](http://www.kroah.com/linux/talks/ols_2002_kernel_codingstyle_paper/codingstyle.ps)~~
@@ -93,6 +89,7 @@ Here we go!
 - [Regular-Expression Quick Start](http://www.regular-expressions.info/quickstart.html)
 - [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
 - [The UNIX Time-Sharing System](http://www.scs.stanford.edu/nyu/04fa/sched/readings/unix.pdf)
+- [Epigrams on Programming](http://pu.inf.uni-tuebingen.de/users/klaeren/epigrams.html)
 - Vim Manual
     - ~~usr_01.txt~~
     - usr_02.txt
