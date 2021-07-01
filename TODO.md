@@ -39,9 +39,9 @@ Here we go!
 
 - [C++ Tutorials](https://www.cplusplus.com/doc/tutorial/)
     - Introduction
-        - [Compilers](https://www.cplusplus.com/doc/tutorial/introduction/)  <-- 100%
+        - ~~[Compilers](https://www.cplusplus.com/doc/tutorial/introduction/)  <-- 100%~~
     - Basics of C++
-        - [Structure of a program](https://www.cplusplus.com/doc/tutorial/program_structure/)  <-- 100%
+        - ~~[Structure of a program](https://www.cplusplus.com/doc/tutorial/program_structure/)  <-- 100%~~
         - ~~[Variables and types](https://www.cplusplus.com/doc/tutorial/variables/)  <-- 100%~~
         - [Constants](https://www.cplusplus.com/doc/tutorial/constants/)   <-- 65%
         - [Operators](https://www.cplusplus.com/doc/tutorial/operators/)
