@@ -71,11 +71,16 @@ Here we go!
 - 穷查理宝典
 - [Developing Talent in Young People](https://www.amazon.com/exec/obidos/ASIN/034531509X/)
 - [Outliers: The Story of Success](https://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017922)
+- [Structure and Interpretation of Computer Programs](http://groups.csail.mit.edu/mac/classes/6.001/abelson-sussman-lectures/)
+- [How to Design Programs: An Introduction to Programming and Computing](https://www.amazon.com/gp/product/0262062186)
+- [Concepts, Techniques, and Models of Computer Programming (The MIT Press) ](https://www.amazon.com/gp/product/0262220695)
+- [The Complete Problem Solver, Second Edition 2nd Edition](https://www.amazon.com/exec/obidos/ASIN/0805803092)
 
 #### Docs
 - ~~[Documentation/CodingStyle and Beyond](http://www.kroah.com/linux/talks/ols_2002_kernel_codingstyle_paper/codingstyle.ps)~~
 - ~~[A TCP/IP Tutorial](https://tools.ietf.org/html/rfc1180#:~:text=%20%20%201%20IntroductionThis%20tutorial%20contains%20only,Ethernet%20frame%20contains%20the%20destination%20address,...%20More)~~
 - ~~[How to become a Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html)~~
+- ~~[Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)~~
 - [Beej's Guide to Network Programming](http://www.beej.us/guide/bgnet/html/) <-- 10% (second)
 - [GDB first 3 chapters](https://sourceware.org/gdb/current/onlinedocs/gdb/)
     - ~~[A Sample GDB Session](https://sourceware.org/gdb/current/onlinedocs/gdb/Sample-Session.html#Sample-Session)~~
@@ -87,7 +92,6 @@ Here we go!
 - [Requirements for Internet Hosts -- Communication Layers](https://tools.ietf.org/html/rfc1122)
 - [Requirements for Internet Hosts -- Application and Support](https://tools.ietf.org/html/rfc1123)
 - [Regular-Expression Quick Start](http://www.regular-expressions.info/quickstart.html)
-- [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
 - [The UNIX Time-Sharing System](http://www.scs.stanford.edu/nyu/04fa/sched/readings/unix.pdf)
 - [Epigrams on Programming](http://pu.inf.uni-tuebingen.de/users/klaeren/epigrams.html)
 - Vim Manual
