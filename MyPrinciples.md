@@ -11,3 +11,4 @@
 3. Practice makes perfect
 4. Once do one thing and do it well
 5. keep reading and exercising
+6. 绝不闯红灯
