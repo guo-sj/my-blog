@@ -44,8 +44,13 @@ Here we go!
         - ~~[Structure of a program](https://www.cplusplus.com/doc/tutorial/program_structure/)~~
         - ~~[Variables and types](https://www.cplusplus.com/doc/tutorial/variables/)~~
         - ~~[Constants](https://www.cplusplus.com/doc/tutorial/constants/)~~
-        - [Operators](https://www.cplusplus.com/doc/tutorial/operators/)  <-- 40%
-        - [Basic Input/Output](https://www.cplusplus.com/doc/tutorial/basic_io/)
+        - ~~[Operators](https://www.cplusplus.com/doc/tutorial/operators/)~~
+        - ~~[Basic Input/Output](https://www.cplusplus.com/doc/tutorial/basic_io/)~~
+    - Program structure
+        - [Statements and flow control](https://www.cplusplus.com/doc/tutorial/control/)  <-- 40%
+        - [Functions](https://www.cplusplus.com/doc/tutorial/functions/)
+        - [Overloads and templates](https://www.cplusplus.com/doc/tutorial/functions2/)
+        - [Name visibility](https://www.cplusplus.com/doc/tutorial/namespaces/)
 
 ### Money Course
 - 第十一周晚课笔记 货币资金  <-- 60%
