@@ -47,8 +47,8 @@ Here we go!
         - ~~[Operators](https://www.cplusplus.com/doc/tutorial/operators/)~~
         - ~~[Basic Input/Output](https://www.cplusplus.com/doc/tutorial/basic_io/)~~
     - Program structure
-        - [Statements and flow control](https://www.cplusplus.com/doc/tutorial/control/)  <-- 40%
-        - [Functions](https://www.cplusplus.com/doc/tutorial/functions/)
+        - ~~[Statements and flow control](https://www.cplusplus.com/doc/tutorial/control/)~~
+        - [Functions](https://www.cplusplus.com/doc/tutorial/functions/) <-- 50%
         - [Overloads and templates](https://www.cplusplus.com/doc/tutorial/functions2/)
         - [Name visibility](https://www.cplusplus.com/doc/tutorial/namespaces/)
 
@@ -86,7 +86,7 @@ Here we go!
 - ~~[A TCP/IP Tutorial](https://tools.ietf.org/html/rfc1180#:~:text=%20%20%201%20IntroductionThis%20tutorial%20contains%20only,Ethernet%20frame%20contains%20the%20destination%20address,...%20More)~~
 - ~~[How to become a Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html)~~
 - ~~[Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)~~
-- [Requirements for Internet Hosts -- Communication Layers](https://tools.ietf.org/html/rfc1122)  <-- P7/116
+- [Requirements for Internet Hosts -- Communication Layers](https://tools.ietf.org/html/rfc1122)  <-- P13/116
 - [Beej's Guide to Network Programming](http://www.beej.us/guide/bgnet/html/) <-- 10% (second)
 - [GDB first 3 chapters](https://sourceware.org/gdb/current/onlinedocs/gdb/)
     - ~~[A Sample GDB Session](https://sourceware.org/gdb/current/onlinedocs/gdb/Sample-Session.html#Sample-Session)~~
