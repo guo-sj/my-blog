@@ -60,7 +60,7 @@ Here we go!
 ### Books && Docs
 
 #### Books
-- 高能效人士的七个习惯 <-- P114/242
+- 高能效人士的七个习惯 <-- P116/242
 - UNIX: A History and a Memoir  <-- P188/217
 - [The C Programming Language](https://hikage.freeshell.org/books/theCprogrammingLanguage.pdf)  <-- P51/272
 - the UNIX Programming Environment  <-- P63/357
