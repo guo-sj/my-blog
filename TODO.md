@@ -48,9 +48,11 @@ Here we go!
         - ~~[Basic Input/Output](https://www.cplusplus.com/doc/tutorial/basic_io/)~~
     - Program structure
         - ~~[Statements and flow control](https://www.cplusplus.com/doc/tutorial/control/)~~
-        - [Functions](https://www.cplusplus.com/doc/tutorial/functions/) <-- 50%
+        - ~~[Functions](https://www.cplusplus.com/doc/tutorial/functions/)~~
         - [Overloads and templates](https://www.cplusplus.com/doc/tutorial/functions2/)
         - [Name visibility](https://www.cplusplus.com/doc/tutorial/namespaces/)
+
+- [Data Structure Tutorial](https://www.tutorialspoint.com/data_structures_algorithms/index.htm)
 
 ### Money Course
 - 第十一周晚课笔记 货币资金  <-- 60%
