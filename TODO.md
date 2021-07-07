@@ -66,16 +66,16 @@ Here we go!
 - the UNIX Programming Environment  <-- P63/357
 - The Computer System, A programmer's perspective  <-- P108-112
     - Floating Point P108-115
+- 穷查理宝典
+- 乌合之众
+- The Practice of Programming
 - 鹿鼎记4 <-- 40%
 - Hacker <-- 1%
-- The Practice of Programming
 - guitar tutorial
 - 思考，快与慢
-- 乌合之众
 - 只为一碗好面
 - Harry Potter 3
 - 鹿鼎记5
-- 穷查理宝典
 - [Developing Talent in Young People](https://www.amazon.com/exec/obidos/ASIN/034531509X/)
 - [Outliers: The Story of Success](https://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017922)
 - [Structure and Interpretation of Computer Programs](http://groups.csail.mit.edu/mac/classes/6.001/abelson-sussman-lectures/)
@@ -88,7 +88,7 @@ Here we go!
 - ~~[A TCP/IP Tutorial](https://tools.ietf.org/html/rfc1180#:~:text=%20%20%201%20IntroductionThis%20tutorial%20contains%20only,Ethernet%20frame%20contains%20the%20destination%20address,...%20More)~~
 - ~~[How to become a Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html)~~
 - ~~[Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)~~
-- [Requirements for Internet Hosts -- Communication Layers](https://tools.ietf.org/html/rfc1122)  <-- P13/116
+- [Requirements for Internet Hosts -- Communication Layers](https://tools.ietf.org/html/rfc1122)  <-- P19/116
 - [Beej's Guide to Network Programming](http://www.beej.us/guide/bgnet/html/) <-- 10% (second)
 - [GDB first 3 chapters](https://sourceware.org/gdb/current/onlinedocs/gdb/)
     - ~~[A Sample GDB Session](https://sourceware.org/gdb/current/onlinedocs/gdb/Sample-Session.html#Sample-Session)~~
