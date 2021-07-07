@@ -49,8 +49,8 @@ Here we go!
     - Program structure
         - ~~[Statements and flow control](https://www.cplusplus.com/doc/tutorial/control/)~~
         - ~~[Functions](https://www.cplusplus.com/doc/tutorial/functions/)~~
-        - [Overloads and templates](https://www.cplusplus.com/doc/tutorial/functions2/)
-        - [Name visibility](https://www.cplusplus.com/doc/tutorial/namespaces/)
+        - ~~[Overloads and templates](https://www.cplusplus.com/doc/tutorial/functions2/)~~
+        - [Name visibility](https://www.cplusplus.com/doc/tutorial/namespaces/)  <-- 60%
 
 - [Data Structure Tutorial](https://www.tutorialspoint.com/data_structures_algorithms/index.htm)
 
