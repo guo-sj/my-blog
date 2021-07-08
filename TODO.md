@@ -55,6 +55,8 @@ Here we go!
 - [Data Structure Tutorial](https://www.tutorialspoint.com/data_structures_algorithms/index.htm)
 
 - [The Linux Information Project](http://www.linfo.org/index.html)
+    - [Process](http://www.linfo.org/process.html)
+    - [kernel](http://www.linfo.org/kernel.html)
 
 ### Money Course
 - 第十一周晚课笔记 货币资金  <-- 60%
