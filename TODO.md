@@ -56,8 +56,13 @@ Here we go!
 - [Data Structure Tutorial](https://www.tutorialspoint.com/data_structures_algorithms/index.htm)
 
 - [The Linux Information Project](http://www.linfo.org/index.html)
-    - [Process](http://www.linfo.org/process.html)
+    - ~~[Process](http://www.linfo.org/process.html)~~
     - [kernel](http://www.linfo.org/kernel.html)
+    - [Data Structure](http://www.linfo.org/data_structure.html)
+    - [vmlinuz ](http://www.linfo.org/data_structure.html)
+    - [PID](http://www.linfo.org/data_structure.html)
+    - [System Call](http://www.linfo.org/system_call.html)
+    - [File system](http://www.linfo.org/filesystem.html)
 
 ### Money Course
 - 第十一周晚课笔记 货币资金  <-- 60%
@@ -66,11 +71,11 @@ Here we go!
 
 #### Books
 - 高能效人士的七个习惯 <-- P116/242
-- UNIX: A History and a Memoir  <-- P188/217
 - [The C Programming Language](https://hikage.freeshell.org/books/theCprogrammingLanguage.pdf)  <-- P51/272
 - the UNIX Programming Environment  <-- P63/357
 - The Computer System, A programmer's perspective  <-- P108-112
     - Floating Point P108-115
+- UNIX: A History and a Memoir  <-- P188/217
 - 穷查理宝典
 - 乌合之众
 - The Practice of Programming
