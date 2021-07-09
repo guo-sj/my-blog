@@ -50,7 +50,8 @@ Here we go!
         - ~~[Statements and flow control](https://www.cplusplus.com/doc/tutorial/control/)~~
         - ~~[Functions](https://www.cplusplus.com/doc/tutorial/functions/)~~
         - ~~[Overloads and templates](https://www.cplusplus.com/doc/tutorial/functions2/)~~
-        - [Name visibility](https://www.cplusplus.com/doc/tutorial/namespaces/)  <-- 60%
+        - ~~[Name visibility](https://www.cplusplus.com/doc/tutorial/namespaces/)~~
+        - ~~[Microsoft C++ namespace](https://docs.microsoft.com/en-us/cpp/cpp/namespaces-cpp?view=msvc-160#:~:text=Namespaces%20%28C%2B%2B%29%201%20using%20directives.%20...%202%20Declaring,anonymous%20or%20unnamed%20namespaces.%20...%209%20See%20also)~~
 
 - [Data Structure Tutorial](https://www.tutorialspoint.com/data_structures_algorithms/index.htm)
 
