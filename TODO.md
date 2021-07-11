@@ -71,7 +71,7 @@ Here we go!
 
 #### Books
 - 高能效人士的七个习惯 <-- P116/242
-- [The C Programming Language](https://hikage.freeshell.org/books/theCprogrammingLanguage.pdf)  <-- P51/272
+- [The C Programming Language](https://hikage.freeshell.org/books/theCprogrammingLanguage.pdf)  <-- P52/272
 - the UNIX Programming Environment  <-- P63/357
 - The Computer System, A programmer's perspective  <-- P108-112
     - Floating Point P108-115
