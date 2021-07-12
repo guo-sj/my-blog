@@ -53,8 +53,8 @@ Here we go!
         - ~~[Name visibility](https://www.cplusplus.com/doc/tutorial/namespaces/)~~
         - ~~[Microsoft C++ namespace](https://docs.microsoft.com/en-us/cpp/cpp/namespaces-cpp?view=msvc-160#:~:text=Namespaces%20%28C%2B%2B%29%201%20using%20directives.%20...%202%20Declaring,anonymous%20or%20unnamed%20namespaces.%20...%209%20See%20also)~~
     - Compound data types
-        - [Arrays](https://www.cplusplus.com/doc/tutorial/arrays/)
-        - [Character sequences](https://www.cplusplus.com/doc/tutorial/ntcs/)
+        - ~~[Arrays](https://www.cplusplus.com/doc/tutorial/arrays/)~~
+        - ~~[Character sequences](https://www.cplusplus.com/doc/tutorial/ntcs/)~~
         - [Pointers](https://www.cplusplus.com/doc/tutorial/pointers/)
         - [Dynamic memory](https://www.cplusplus.com/doc/tutorial/dynamic/)
         - [Data structure](https://www.cplusplus.com/doc/tutorial/structures/)
@@ -117,7 +117,7 @@ Here we go!
 - ~~[A TCP/IP Tutorial](https://tools.ietf.org/html/rfc1180#:~:text=%20%20%201%20IntroductionThis%20tutorial%20contains%20only,Ethernet%20frame%20contains%20the%20destination%20address,...%20More)~~
 - ~~[How to become a Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html)~~
 - ~~[Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)~~
-- [Requirements for Internet Hosts -- Communication Layers](https://tools.ietf.org/html/rfc1122)  <-- P19/116
+- [Requirements for Internet Hosts -- Communication Layers](https://tools.ietf.org/html/rfc1122)  <-- P20/116
 - [Beej's Guide to Network Programming](http://www.beej.us/guide/bgnet/html/) <-- 10% (second)
 - [GDB first 3 chapters](https://sourceware.org/gdb/current/onlinedocs/gdb/)
     - ~~[A Sample GDB Session](https://sourceware.org/gdb/current/onlinedocs/gdb/Sample-Session.html#Sample-Session)~~
