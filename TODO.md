@@ -90,7 +90,7 @@ Here we go!
 
 #### Books
 - 高能效人士的七个习惯 <-- P116/242
-- The C Programming Language <-- P52/272
+- The C Programming Language <-- P56/272
 - the UNIX Programming Environment  <-- P63/357
 - The Computer System, A programmer's perspective  <-- P108-112
     - Floating Point P108-115
