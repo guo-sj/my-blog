@@ -52,6 +52,25 @@ Here we go!
         - ~~[Overloads and templates](https://www.cplusplus.com/doc/tutorial/functions2/)~~
         - ~~[Name visibility](https://www.cplusplus.com/doc/tutorial/namespaces/)~~
         - ~~[Microsoft C++ namespace](https://docs.microsoft.com/en-us/cpp/cpp/namespaces-cpp?view=msvc-160#:~:text=Namespaces%20%28C%2B%2B%29%201%20using%20directives.%20...%202%20Declaring,anonymous%20or%20unnamed%20namespaces.%20...%209%20See%20also)~~
+    - Compound data types
+        - [Arrays](https://www.cplusplus.com/doc/tutorial/arrays/)
+        - [Character sequences](https://www.cplusplus.com/doc/tutorial/ntcs/)
+        - [Pointers](https://www.cplusplus.com/doc/tutorial/pointers/)
+        - [Dynamic memory](https://www.cplusplus.com/doc/tutorial/dynamic/)
+        - [Data structure](https://www.cplusplus.com/doc/tutorial/structures/)
+        - [Other data types](https://www.cplusplus.com/doc/tutorial/other_data_types/)
+    - Classes
+        - [Classes (I)](https://www.cplusplus.com/doc/tutorial/classes/)
+        - [Classes (II)](https://www.cplusplus.com/doc/tutorial/templates/)
+        - [Special members](https://www.cplusplus.com/doc/tutorial/classes2/)
+        - [Friendship and inheritance](https://www.cplusplus.com/doc/tutorial/inheritance/)
+        - [Polymorphism](https://www.cplusplus.com/doc/tutorial/polymorphism/)
+    - Other language features
+        - [Type conversions](https://www.cplusplus.com/doc/tutorial/typecasting/)
+        - [Exceptions](https://www.cplusplus.com/doc/tutorial/exceptions/)
+        - [Preprocessor directives](https://www.cplusplus.com/doc/tutorial/preprocessor/)
+    - Standard library
+        - [Input/output with files](https://www.cplusplus.com/doc/tutorial/files/)
 
 - [Data Structure Tutorial](https://www.tutorialspoint.com/data_structures_algorithms/index.htm)
 
@@ -71,7 +90,7 @@ Here we go!
 
 #### Books
 - 高能效人士的七个习惯 <-- P116/242
-- [The C Programming Language](https://hikage.freeshell.org/books/theCprogrammingLanguage.pdf)  <-- P52/272
+- The C Programming Language <-- P52/272
 - the UNIX Programming Environment  <-- P63/357
 - The Computer System, A programmer's perspective  <-- P108-112
     - Floating Point P108-115
