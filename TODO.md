@@ -111,6 +111,7 @@ Here we go!
 - [How to Design Programs: An Introduction to Programming and Computing](https://www.amazon.com/gp/product/0262062186)
 - [Concepts, Techniques, and Models of Computer Programming (The MIT Press) ](https://www.amazon.com/gp/product/0262220695)
 - [The Complete Problem Solver, Second Edition 2nd Edition](https://www.amazon.com/exec/obidos/ASIN/0805803092)
+- [Programming with POSIX Threads](https://www.amazon.com/Programming-Threads-Addison-Wesley-Professional-Computing-ebook/dp/B006QTHCJ6)
 
 #### Docs
 - ~~[Documentation/CodingStyle and Beyond](http://www.kroah.com/linux/talks/ols_2002_kernel_codingstyle_paper/codingstyle.ps)~~
