@@ -55,7 +55,7 @@ Here we go!
     - Compound data types
         - ~~[Arrays](https://www.cplusplus.com/doc/tutorial/arrays/)~~
         - ~~[Character sequences](https://www.cplusplus.com/doc/tutorial/ntcs/)~~
-        - [Pointers](https://www.cplusplus.com/doc/tutorial/pointers/)
+        - ~~[Pointers](https://www.cplusplus.com/doc/tutorial/pointers/)~~
         - [Dynamic memory](https://www.cplusplus.com/doc/tutorial/dynamic/)
         - [Data structure](https://www.cplusplus.com/doc/tutorial/structures/)
         - [Other data types](https://www.cplusplus.com/doc/tutorial/other_data_types/)
