@@ -78,8 +78,8 @@ Here we go!
     - ~~[Process](http://www.linfo.org/process.html)~~
     - [kernel](http://www.linfo.org/kernel.html)
     - [Data Structure](http://www.linfo.org/data_structure.html)
-    - [vmlinuz ](http://www.linfo.org/data_structure.html)
-    - [PID](http://www.linfo.org/data_structure.html)
+    - [vmlinuz ](http://www.linfo.org/vmlinuz.html)
+    - [PID](http://www.linfo.org/pid.html)
     - [System Call](http://www.linfo.org/system_call.html)
     - [File system](http://www.linfo.org/filesystem.html)
 
