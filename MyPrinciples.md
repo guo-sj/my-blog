@@ -12,3 +12,4 @@
 4. Once do one thing and do it well
 5. keep reading and exercising
 6. 绝不闯红灯
+7. 敢于与人为恶，敢于与人不和
