@@ -10,11 +10,11 @@
 ### 主体
 1. 今后处世，坚持**以原则为中心**
 2. 身体健康是第一位
-3. Practice makes perfect
-4. Once do one thing and do it well
-5. keep reading and exercising
-6. 绝不闯红灯
-7. 敢于与人为恶，敢于与人不和
+3. 培养**自我**，并且敢于**表达自我**；当和别人意见不和时，敢于**以理自证**。
+4. Practice makes perfect
+5. Once do one thing and do it well
+6. keep reading and exercising
+7. 绝不闯红灯
 8. 根深才能叶茂
 9. 相信并坚持**复利**, 本金＊（1＋增长率）^ 时间
 
