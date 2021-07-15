@@ -72,6 +72,12 @@ Here we go!
     - Standard library
         - [Input/output with files](https://www.cplusplus.com/doc/tutorial/files/)
 
+
+- More about C++ programming 
+    - [Object-Oriented Programming Using C++ (Weber University course)](https://icarus.cs.weber.edu/~dab/cs1410/textbook/index.html)
+        - [Pointers](https://icarus.cs.weber.edu/~dab/cs1410/textbook/pointers.html)
+
+
 - [Data Structure Tutorial](https://www.tutorialspoint.com/data_structures_algorithms/index.htm)
 
 - [The Linux Information Project](http://www.linfo.org/index.html)
