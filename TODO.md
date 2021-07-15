@@ -1,4 +1,4 @@
-# My Blog TODO
+# TODO
 
 Here are some questions about What I want to konw about computer, life, etc.  
 Once one question is solved, I will add a stub about it.  
@@ -56,8 +56,8 @@ Here we go!
         - ~~[Arrays](https://www.cplusplus.com/doc/tutorial/arrays/)~~
         - ~~[Character sequences](https://www.cplusplus.com/doc/tutorial/ntcs/)~~
         - ~~[Pointers](https://www.cplusplus.com/doc/tutorial/pointers/)~~
-        - [Dynamic memory](https://www.cplusplus.com/doc/tutorial/dynamic/)
-        - [Data structure](https://www.cplusplus.com/doc/tutorial/structures/)
+        - ~~[Dynamic memory](https://www.cplusplus.com/doc/tutorial/dynamic/)~~
+        - [Data structure](https://www.cplusplus.com/doc/tutorial/structures/)  <-- 20%
         - [Other data types](https://www.cplusplus.com/doc/tutorial/other_data_types/)
     - Classes
         - [Classes (I)](https://www.cplusplus.com/doc/tutorial/classes/)
@@ -76,6 +76,8 @@ Here we go!
 - More about C++ programming 
     - [Object-Oriented Programming Using C++ (Weber University course)](https://icarus.cs.weber.edu/~dab/cs1410/textbook/index.html)
         - [Pointers](https://icarus.cs.weber.edu/~dab/cs1410/textbook/pointers.html)
+            - ~~[4.6 Memory Management: Stack And Heap](https://icarus.cs.weber.edu/~dab/cs1410/textbook/4.Pointers/memory.html)~~
+            - ~~[4.7 Dynamic Memory: new And delete](https://icarus.cs.weber.edu/~dab/cs1410/textbook/4.Pointers/dynamic.html)~~
 
 
 - [Data Structure Tutorial](https://www.tutorialspoint.com/data_structures_algorithms/index.htm)
