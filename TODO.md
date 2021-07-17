@@ -81,6 +81,19 @@ Here we go!
 
 
 - [Data Structure Tutorial](https://www.tutorialspoint.com/data_structures_algorithms/index.htm)
+    - Data Structure & Algorithms
+        - [Home](https://www.tutorialspoint.com/data_structures_algorithms/index.htm)
+        - [Overview](https://www.tutorialspoint.com/data_structures_algorithms/data_structure_overview.htm)
+        - [Environment Setup](https://www.tutorialspoint.com/data_structures_algorithms/data_structure_environment.htm)
+    - Algorithms
+        - [Algorithms Basics](https://www.tutorialspoint.com/data_structures_algorithms/algorithms_basics.htm)
+        - [Asymptotic Analysis](https://www.tutorialspoint.com/data_structures_algorithms/asymptotic_analysis.htm)
+        - [Greedy Algorithms](https://www.tutorialspoint.com/data_structures_algorithms/greedy_algorithms.htm)
+        - [Divide and Conquer](https://www.tutorialspoint.com/data_structures_algorithms/divide_and_conquer.htm)
+        - [Dynamic Programming](https://www.tutorialspoint.com/data_structures_algorithms/dynamic_programming.htm)
+    - Sorting Techniques
+        - ~~[Quick Sort](https://www.tutorialspoint.com/data_structures_algorithms/quick_sort_algorithm.htm)~~
+
 
 - [The Linux Information Project](http://www.linfo.org/index.html)
     - ~~[Process](http://www.linfo.org/process.html)~~
@@ -126,12 +139,12 @@ Here we go!
 - ~~[A TCP/IP Tutorial](https://tools.ietf.org/html/rfc1180#:~:text=%20%20%201%20IntroductionThis%20tutorial%20contains%20only,Ethernet%20frame%20contains%20the%20destination%20address,...%20More)~~
 - ~~[How to become a Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html)~~
 - ~~[Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)~~
-- [Requirements for Internet Hosts -- Communication Layers](https://tools.ietf.org/html/rfc1122)  <-- P20/116
-- [Beej's Guide to Network Programming](http://www.beej.us/guide/bgnet/html/) <-- 10% (second)
 - [GDB first 3 chapters](https://sourceware.org/gdb/current/onlinedocs/gdb/)
     - ~~[A Sample GDB Session](https://sourceware.org/gdb/current/onlinedocs/gdb/Sample-Session.html#Sample-Session)~~
     - ~~[Getting IN and Out of GDB](https://sourceware.org/gdb/current/onlinedocs/gdb/Invocation.html#Invocation)~~
     - [GDB Commands](https://sourceware.org/gdb/current/onlinedocs/gdb/Commands.html#Commands)
+- [Requirements for Internet Hosts -- Communication Layers](https://tools.ietf.org/html/rfc1122)  <-- P20/116
+- [Beej's Guide to Network Programming](http://www.beej.us/guide/bgnet/html/) <-- 10% (second)
 - [Ryans' Bash Scripting Tutorial](https://ryanstutorials.net/bash-scripting-tutorial/) <-- 10%
 - [POSIX Threads Programming](https://hpc-tutorials.llnl.gov/posix/)
 - [You and your research](http://paulgraham.com/hamming.html)
