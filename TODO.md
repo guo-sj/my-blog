@@ -82,11 +82,11 @@ Here we go!
 
 - [Data Structure Tutorial](https://www.tutorialspoint.com/data_structures_algorithms/index.htm)
     - Data Structure & Algorithms
-        - [Home](https://www.tutorialspoint.com/data_structures_algorithms/index.htm)
-        - [Overview](https://www.tutorialspoint.com/data_structures_algorithms/data_structure_overview.htm)
-        - [Environment Setup](https://www.tutorialspoint.com/data_structures_algorithms/data_structure_environment.htm)
+        - ~~[Home](https://www.tutorialspoint.com/data_structures_algorithms/index.htm)~~
+        - ~~[Overview](https://www.tutorialspoint.com/data_structures_algorithms/data_structure_overview.htm)~~
+        - ~~[Environment Setup](https://www.tutorialspoint.com/data_structures_algorithms/data_structure_environment.htm)~~
     - Algorithms
-        - [Algorithms Basics](https://www.tutorialspoint.com/data_structures_algorithms/algorithms_basics.htm)
+        - [Algorithms Basics](https://www.tutorialspoint.com/data_structures_algorithms/algorithms_basics.htm)  <-- 60%
         - [Asymptotic Analysis](https://www.tutorialspoint.com/data_structures_algorithms/asymptotic_analysis.htm)
         - [Greedy Algorithms](https://www.tutorialspoint.com/data_structures_algorithms/greedy_algorithms.htm)
         - [Divide and Conquer](https://www.tutorialspoint.com/data_structures_algorithms/divide_and_conquer.htm)
@@ -116,9 +116,9 @@ Here we go!
 - The Computer System, A programmer's perspective  <-- P108-112
     - Floating Point P108-115
 - UNIX: A History and a Memoir  <-- P188/217
+- The Practice of Programming
 - 穷查理宝典
 - 乌合之众
-- The Practice of Programming
 - 鹿鼎记4 <-- 40%
 - Hacker <-- 1%
 - guitar tutorial
