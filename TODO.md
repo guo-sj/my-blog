@@ -86,14 +86,21 @@ Here we go!
         - ~~[Overview](https://www.tutorialspoint.com/data_structures_algorithms/data_structure_overview.htm)~~
         - ~~[Environment Setup](https://www.tutorialspoint.com/data_structures_algorithms/data_structure_environment.htm)~~
     - Algorithms
-        - [Algorithms Basics](https://www.tutorialspoint.com/data_structures_algorithms/algorithms_basics.htm)  <-- 60%
-        - [Asymptotic Analysis](https://www.tutorialspoint.com/data_structures_algorithms/asymptotic_analysis.htm)
+        - ~~[Algorithms Basics](https://www.tutorialspoint.com/data_structures_algorithms/algorithms_basics.htm)~~
+        - ~~[Asymptotic Analysis](https://www.tutorialspoint.com/data_structures_algorithms/asymptotic_analysis.htm)~~
         - [Greedy Algorithms](https://www.tutorialspoint.com/data_structures_algorithms/greedy_algorithms.htm)
         - [Divide and Conquer](https://www.tutorialspoint.com/data_structures_algorithms/divide_and_conquer.htm)
         - [Dynamic Programming](https://www.tutorialspoint.com/data_structures_algorithms/dynamic_programming.htm)
     - Sorting Techniques
         - ~~[Quick Sort](https://www.tutorialspoint.com/data_structures_algorithms/quick_sort_algorithm.htm)~~
 
+
+- More about Data Structure and Algorithms
+    - ~~[How to find time complexity of an algorithm?](https://adrianmejia.com/how-to-find-time-complexity-of-an-algorithm-code-big-o-notation/)~~
+    - [8 time complexities that every programmer should know](https://adrianmejia.com/most-popular-algorithms-time-complexity-every-programmer-should-know-free-online-tutorial-course/)
+    - ~~[Analysis of Algorithm | Set 4 (Solving Recurrences)](https://www.geeksforgeeks.org/analysis-algorithm-set-4-master-method-solving-recurrences/)~~
+    - [How to solve time complexity Recurrence Relations using Recursion Tree method?](https://www.geeksforgeeks.org/how-to-solve-time-complexity-recurrence-relations-using-recursion-tree-method/#:~:text=Steps%20to%20solve%20recurrence%20relation%20using%20recursion%20tree,all%20the%20levels%20in%20the%20recursive%20tree.%20)
+ 
 
 - [The Linux Information Project](http://www.linfo.org/index.html)
     - ~~[Process](http://www.linfo.org/process.html)~~
@@ -103,6 +110,11 @@ Here we go!
     - [PID](http://www.linfo.org/pid.html)
     - [System Call](http://www.linfo.org/system_call.html)
     - [File system](http://www.linfo.org/filesystem.html)
+
+
+- [Math is Fun](https://www.mathsisfun.com/index.htm)
+    - [Calculus](https://www.mathsisfun.com/calculus/index.html)
+
 
 ### Money Course
 - 第十一周晚课笔记 货币资金  <-- 60%
