@@ -99,7 +99,7 @@ Here we go!
     - ~~[How to find time complexity of an algorithm?](https://adrianmejia.com/how-to-find-time-complexity-of-an-algorithm-code-big-o-notation/)~~
     - [8 time complexities that every programmer should know](https://adrianmejia.com/most-popular-algorithms-time-complexity-every-programmer-should-know-free-online-tutorial-course/)
     - ~~[Analysis of Algorithm | Set 4 (Solving Recurrences)](https://www.geeksforgeeks.org/analysis-algorithm-set-4-master-method-solving-recurrences/)~~
-    - [How to solve time complexity Recurrence Relations using Recursion Tree method?](https://www.geeksforgeeks.org/how-to-solve-time-complexity-recurrence-relations-using-recursion-tree-method/#:~:text=Steps%20to%20solve%20recurrence%20relation%20using%20recursion%20tree,all%20the%20levels%20in%20the%20recursive%20tree.%20)
+    - ~~[How to solve time complexity Recurrence Relations using Recursion Tree method?](https://www.geeksforgeeks.org/how-to-solve-time-complexity-recurrence-relations-using-recursion-tree-method/#:~:text=Steps%20to%20solve%20recurrence%20relation%20using%20recursion%20tree,all%20the%20levels%20in%20the%20recursive%20tree.%20)~~
  
 
 - [The Linux Information Project](http://www.linfo.org/index.html)
