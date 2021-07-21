@@ -122,7 +122,7 @@ Here we go!
 ### Books && Docs
 
 #### Books
-- 高能效人士的七个习惯 <-- P121/242
+- 高能效人士的七个习惯 <-- P127/242
 - The C Programming Language <-- P57/272
 - the UNIX Programming Environment  <-- P67/357
 - The Computer System, A programmer's perspective  <-- P108-112
