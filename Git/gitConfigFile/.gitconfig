@@ -1,0 +1,22 @@
+[user]
+    name = jackie-mantou    # regular name
+    email = 515878133@qq.com    # regular email
+
+    #name = guosj.fnst    # fnst's name
+    #email = guosj.fnst@fujitsu.com    # fnst's email
+    
+[core]
+    editor = vim
+
+[alias]
+    st = status
+    df = diff
+
+[merge]
+    tool = vimdiff
+
+[http]
+	proxy = guosj.fnst:gsj---1234@10.167.196.133:8080    # fnst's http proxy
+
+[https]
+	proxy = guosj.fnst:gsj---1234@10.167.196.133:8080    # fnst's https proxy
