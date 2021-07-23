@@ -90,6 +90,11 @@ You can use APT command to search a package before installing it:
 $ sudo apt search package_name
 ``` 
 
+You could add `--names-only` to get a more concise result:
+```sh
+$ sudo apt search --names-only package_name
+```
+
 ### Show package
 If you want to know something about a package you want to remove or install, type:
 ```sh
