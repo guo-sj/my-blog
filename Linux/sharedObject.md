@@ -9,25 +9,25 @@
 ## 原因
 在动态链接时，shell无法找到相关的`*.so`文件
 
-PS: `so` 是`Share Object` 的缩写
+PS: `so` 是`Shared Object` 的缩写
 
 ## 解决办法
 解决办法根据不同情况而分成如下几种：
 
-### /usr/local/lib 中有相关的"\*.sh"文件
+### /usr/local/lib 中有相关的 \*.sh 文件
 运行如下命令更新即可：
 ```sh
 $ sudo ldconfig
 ```
 
-### /usr/local/lib中没有相关的"\*.sh"文件
+### /usr/local/lib中没有相关的 \*.sh 文件
 
-#### 缺少的"\*.so"文件不是当前程序编译生成的文件
+#### 缺少的 \*.so 文件不是当前程序编译生成的文件
 运行如下命令在仓库中寻找缺少的`*.so`文件：
 ```sh
 $ sudo apt search libHeidenhersh
 ```
-或者可以加上`--names-only`得到更精简的结果：
+或者把前缀`lib`去掉，再加上`--names-only`得到更准确的结果：
 ```sh
 $ sudo apt search --names-only Heidenhersh
 ```
@@ -37,7 +37,7 @@ $ sudo apt search --names-only Heidenhersh
 $ sudo apt install result_package
 ```
 
-#### 缺少的"\*.so"文件为当前程序编译生成的文件
+#### 缺少的 \*.so 文件为当前程序编译生成的文件
 以上面的错误信息为例，在程序的根目录运行：
 ```sh
 $ find . -name "libHeidenhersh.so"
