@@ -2,12 +2,18 @@
 
 # for fnst g08 push
 
-if [ $# != 1 ] 
+
+if [ $# == 0 ] 
 then
-    echo Usage: $0 [commit message]
+    git add .
+    git commit -m "Update TODO.md"
+elif [ $# == 1 ]
+then
+    git add .
+    git commit -m "$1"
+else
+    echo Usage: $0 [commit_message]
     exit
 fi
 
-git add .
-git commit -m "$1"
 git push origin main
