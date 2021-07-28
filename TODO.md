@@ -70,7 +70,7 @@ Here we go!
         - [Data structure](https://www.cplusplus.com/doc/tutorial/structures/)  <-- 20%
         - [Other data types](https://www.cplusplus.com/doc/tutorial/other_data_types/)
     - Classes
-        - [Classes (I)](https://www.cplusplus.com/doc/tutorial/classes/)
+        - [Classes (I)](https://www.cplusplus.com/doc/tutorial/classes/)   <-- 50%  to *Uniform initialization*
         - [Classes (II)](https://www.cplusplus.com/doc/tutorial/templates/)
         - [Special members](https://www.cplusplus.com/doc/tutorial/classes2/)
         - [Friendship and inheritance](https://www.cplusplus.com/doc/tutorial/inheritance/)
