@@ -15,6 +15,7 @@ Here we go!
 - Build a my own chatroom
 
 ### Others
+- [my-blog](https://github.com/jackie-mantou/jackie-mantou.github.io)
 - linux 百度输入法
     - [百度输入法官网](https://srf.baidu.com/site/guanwang_linux/index.html)
     - [安装教程](https://blog.csdn.net/weixin_43359312/article/details/115200846)
