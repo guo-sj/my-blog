@@ -1,7 +1,7 @@
-# undefined reference
+# Undefined Reference
 
-## problem
-Why C program throws undefined reference error?
+## Problem
+Why C program throws **undefined reference** error?
 
 ```c
 #include
@@ -23,7 +23,7 @@ sqrt-val.c:(.text+0x1b): undefined reference to `sqrt'
 collect2: error: ld returned 1 exit status
 ```
 
-## answer
+## Answer
 To resolve this issue, we need to use `-lm` when compiling the code 
 using either cc or gcc compiler. Like this:
 ```sh
@@ -33,7 +33,7 @@ $ ./a.out
 sqrt of 25 is 5.000000
 ```
 
-## referrence
+## Referrence
 You could find the following content from the manual of `gcc`:
 
 ```
