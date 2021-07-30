@@ -36,7 +36,7 @@ sqrt of 25 is 5.000000
 ## referrence
 You could find the following content from the manual of `gcc`:
 
-```sh
+```
 $ man gcc
 
 ...
