@@ -138,7 +138,7 @@ Here we go!
 - the UNIX Programming Environment  <-- P69/357
 - The Computer System, A programmer's perspective  <-- P108-112
     - Floating Point P108-115
-- UNIX: A History and a Memoir  <-- P188/217
+- ~~UNIX: A History and a Memoir~~
 - The Practice of Programming
 - 穷查理宝典
 - 乌合之众
