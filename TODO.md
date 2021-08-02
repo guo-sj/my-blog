@@ -25,9 +25,11 @@ Here we go!
 - VIM 中文输入法问题
     - [Blog_1](https://www.littlezhang.com/2021/03/%E5%9C%A8-vim-%E9%87%8C%E6%9B%B4%E5%A5%BD%E5%9C%B0%E4%BD%BF%E7%94%A8%E4%B8%AD%E6%96%87%E8%BE%93%E5%85%A5%E6%B3%95/)
 
+- UNIX: A History and a Memoir 读后感
+
 
 ## Self educated
-- write a anki article: learn first, then memorize, i can defeat any exam! 但是大多数时候，因为各种各样的原因，我们没有学习，就更谈不上复习和记忆
+- write a anki article: learn first, then memorize, I can defeat any exam! 但是大多数时候，因为各种各样的原因，我们没有学习，就更谈不上复习和记忆
 这种情况，anki就派不上用场。所以提早学习，大量时间用anki复习，就可以应对所有的考试！
 - **写下自己的使命宣言**
 
