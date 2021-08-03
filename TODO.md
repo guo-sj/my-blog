@@ -128,6 +128,23 @@ Here we go!
 - [Math is Fun](https://www.mathsisfun.com/index.htm)
     - [Calculus](https://www.mathsisfun.com/calculus/index.html)
 
+### Online Manuals
+
+- [GDB](https://sourceware.org/gdb/current/onlinedocs/gdb/)
+    1. ~~[A Sample GDB Session](https://sourceware.org/gdb/current/onlinedocs/gdb/Sample-Session.html#Sample-Session)~~
+    2. ~~[Getting IN and Out of GDB](https://sourceware.org/gdb/current/onlinedocs/gdb/Invocation.html#Invocation)~~
+    3. [GDB Commands](https://sourceware.org/gdb/current/onlinedocs/gdb/Commands.html#Commands)
+    4. [Running Programs Under GDB](https://sourceware.org/gdb/current/onlinedocs/gdb/Running.html#Running)
+    5. [Stopping and continuing](https://sourceware.org/gdb/current/onlinedocs/gdb/Stopping.html#Stopping)
+        5.1 Breakpoints, Watchpoints, and Catchpoints
+            5.1.1 Setting Breakpoints
+            5.1.2 Setting Watchpoints
+            5.1.3 Setting Catchpoints
+            5.1.4 Deleting Breakpoints
+            5.1.5 Disabling Breakpoints
+            5.1.6 Break Conditions
+            5.1.7 Breakpoint Command Lists
+            5.1.8 Dynamic Printf   ok
 
 ### Money Course
 - 第十一周晚课笔记 货币资金  <-- 60%
@@ -164,10 +181,6 @@ Here we go!
 - ~~[A TCP/IP Tutorial](https://tools.ietf.org/html/rfc1180#:~:text=%20%20%201%20IntroductionThis%20tutorial%20contains%20only,Ethernet%20frame%20contains%20the%20destination%20address,...%20More)~~
 - ~~[How to become a Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html)~~
 - ~~[Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)~~
-- [GDB first 3 chapters](https://sourceware.org/gdb/current/onlinedocs/gdb/)
-    - ~~[A Sample GDB Session](https://sourceware.org/gdb/current/onlinedocs/gdb/Sample-Session.html#Sample-Session)~~
-    - ~~[Getting IN and Out of GDB](https://sourceware.org/gdb/current/onlinedocs/gdb/Invocation.html#Invocation)~~
-    - [GDB Commands](https://sourceware.org/gdb/current/onlinedocs/gdb/Commands.html#Commands)
 - [Requirements for Internet Hosts -- Communication Layers](https://tools.ietf.org/html/rfc1122)  <-- P20/116
 - [Beej's Guide to Network Programming](http://www.beej.us/guide/bgnet/html/) <-- 10% (second)
 - [Ryans' Bash Scripting Tutorial](https://ryanstutorials.net/bash-scripting-tutorial/) <-- 10%
