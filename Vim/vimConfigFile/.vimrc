@@ -2,7 +2,7 @@
 " An example for a vimrc file.
 "
 " Maintainer:	Bram Moolenaar <Bram@vim.org>
-" Last change:	2017 Sep 20
+" Last change:	2019 Jan 26
 "
 " To use it, copy it to
 "     for Unix and OS/2:  ~/.vimrc
@@ -10,7 +10,8 @@
 "  for MS-DOS and Win32:  $VIM\_vimrc
 "	    for OpenVMS:  sys$login:.vimrc
 
-" When started as "evim", evim.vim will already have done these settings.
+" When started as "evim", evim.vim will already have done these settings, bail
+" out.
 if v:progname =~? "evim"
   finish
 endif
@@ -32,23 +33,13 @@ if &t_Co > 2 || has("gui_running")
   set hlsearch
 endif
 
-" Only do this part when compiled with support for autocommands.
-if has("autocmd")
-
-  " Put these in an autocmd group, so that we can delete them easily.
-  augroup vimrcEx
+" Put these in an autocmd group, so that we can delete them easily.
+augroup vimrcEx
   au!
 
   " For all text files set 'textwidth' to 78 characters.
   autocmd FileType text setlocal textwidth=78
-
-  augroup END
-
-else
-
-  set autoindent		" always set autoindenting on
-
-endif " has("autocmd")
+augroup END
 
 " Add optional packages.
 "
@@ -97,22 +88,30 @@ ab #b		/****************************************
 ab {        {}
 ab /*       /* */
 
-" colorscheme desert
-colorscheme desert
+" path
+set path=.,/usr/include,/usr/lib/gcc/x86_64-linux-gnu/9/include
 
-" vim-pathogen
+" pathogen
 execute pathogen#infect()
 syntax on
 filetype plugin indent on
 
-" normal mode map
+" key map
 nnoremap <F9> :w<CR>
 nnoremap <F10> :q<CR>
-nnoremap <F11> :qa<CR>
+nnoremap <F11> :wa<CR>
+nnoremap <F12> :qa<CR>
 nnoremap <Up> <C-W>k
 nnoremap <Down> <C-W>j
 nnoremap <Left> <C-W>h
 nnoremap <Right> <C-W>l
 
-" set dictionary
-set dictionary+=/usr/share/dict/words
+" <------------------------NERDtree config------------------------>
+" Start NERDTree. If a file is specified, move the cursor to its window.
+autocmd StdinReadPre * let s:std_in=1
+autocmd VimEnter * NERDTree | if argc() > 0 || exists("s:std_in") | wincmd p | endif
+
+" Open the existing NERDtree on each new tab
+" autocmd BufWinEnter * if getcmdwintype() == '' | silent NERDtreeMirror | endif
+autocmd BufWinEnter * if getcmdwintype() == '' | silent NERDTreeMirror | endif
+" <------------------------NERDtree config------------------------>
