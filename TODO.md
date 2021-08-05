@@ -176,11 +176,13 @@ Here we go!
 - [The Complete Problem Solver, Second Edition 2nd Edition](https://www.amazon.com/exec/obidos/ASIN/0805803092)
 - [Programming with POSIX Threads](https://www.amazon.com/Programming-Threads-Addison-Wesley-Professional-Computing-ebook/dp/B006QTHCJ6)
 
+
 #### Docs
 - ~~[Documentation/CodingStyle and Beyond](http://www.kroah.com/linux/talks/ols_2002_kernel_codingstyle_paper/codingstyle.ps)~~
 - ~~[A TCP/IP Tutorial](https://tools.ietf.org/html/rfc1180#:~:text=%20%20%201%20IntroductionThis%20tutorial%20contains%20only,Ethernet%20frame%20contains%20the%20destination%20address,...%20More)~~
 - ~~[How to become a Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html)~~
 - ~~[Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)~~
+- [GREAT HACKERS](http://www.paulgraham.com/gh.html)
 - [Requirements for Internet Hosts -- Communication Layers](https://tools.ietf.org/html/rfc1122)  <-- P20/116
 - [Beej's Guide to Network Programming](http://www.beej.us/guide/bgnet/html/) <-- 10% (second)
 - [Ryans' Bash Scripting Tutorial](https://ryanstutorials.net/bash-scripting-tutorial/) <-- 10%
