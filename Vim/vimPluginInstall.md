@@ -37,6 +37,7 @@ When you've got `vim-pathogen`, install plugin becomes very easy. Here, we want 
 
 - Nerdtree: `cd ~/.vim/bundle && git clone https://github.com/preservim/nerdtree`
 - Syntax-Sensible: `cd ~/.vim/bundle && git clone https://github.com/tpope/vim-sensible.git`
+- vim-barbaric: `cd ~/.vim/bundle && git clone https://github.com/jackie-mantou/vim-barbaric`
 
 ### Windows platform
 
