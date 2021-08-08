@@ -17,13 +17,13 @@ Here we go!
 ### Others
 - [my-blog](https://github.com/jackie-mantou/jackie-mantou.github.io)
 - linux 百度输入法
-    - [百度输入法官网](https://srf.baidu.com/site/guanwang_linux/index.html)
-    - [安装教程](https://blog.csdn.net/weixin_43359312/article/details/115200846)
+    - ~~[百度输入法官网](https://srf.baidu.com/site/guanwang_linux/index.html)~~
+    - ~~[安装教程](https://blog.csdn.net/weixin_43359312/article/details/115200846)~~
 - VIM Markdown fold
     - vim manual usr_28.txt: 28.8 Folding by expression
 
 - VIM 中文输入法问题
-    - [Blog_1](https://www.littlezhang.com/2021/03/%E5%9C%A8-vim-%E9%87%8C%E6%9B%B4%E5%A5%BD%E5%9C%B0%E4%BD%BF%E7%94%A8%E4%B8%AD%E6%96%87%E8%BE%93%E5%85%A5%E6%B3%95/)
+    - ~~[Blog_1](https://www.littlezhang.com/2021/03/%E5%9C%A8-vim-%E9%87%8C%E6%9B%B4%E5%A5%BD%E5%9C%B0%E4%BD%BF%E7%94%A8%E4%B8%AD%E6%96%87%E8%BE%93%E5%85%A5%E6%B3%95/)~~
 
 - ~~UNIX: A History and a Memoir 读后感~~
 
