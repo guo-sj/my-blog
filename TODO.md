@@ -21,10 +21,8 @@ Here we go!
     - ~~[安装教程](https://blog.csdn.net/weixin_43359312/article/details/115200846)~~
 - VIM Markdown fold
     - vim manual usr_28.txt: 28.8 Folding by expression
-
 - VIM 中文输入法问题
     - ~~[Blog_1](https://www.littlezhang.com/2021/03/%E5%9C%A8-vim-%E9%87%8C%E6%9B%B4%E5%A5%BD%E5%9C%B0%E4%BD%BF%E7%94%A8%E4%B8%AD%E6%96%87%E8%BE%93%E5%85%A5%E6%B3%95/)~~
-
 - ~~UNIX: A History and a Memoir 读后感~~
 
 
@@ -110,7 +108,6 @@ Here we go!
 
 - More about Data Structure and Algorithms
     - ~~[How to find time complexity of an algorithm?](https://adrianmejia.com/how-to-find-time-complexity-of-an-algorithm-code-big-o-notation/)~~
-    - [8 time complexities that every programmer should know](https://adrianmejia.com/most-popular-algorithms-time-complexity-every-programmer-should-know-free-online-tutorial-course/)
     - ~~[Analysis of Algorithm | Set 4 (Solving Recurrences)](https://www.geeksforgeeks.org/analysis-algorithm-set-4-master-method-solving-recurrences/)~~
     - ~~[How to solve time complexity Recurrence Relations using Recursion Tree method?](https://www.geeksforgeeks.org/how-to-solve-time-complexity-recurrence-relations-using-recursion-tree-method/#:~:text=Steps%20to%20solve%20recurrence%20relation%20using%20recursion%20tree,all%20the%20levels%20in%20the%20recursive%20tree.%20)~~
  
