@@ -155,6 +155,7 @@ Here we go!
 - The Computer System, A programmer's perspective  <-- P108-112
     - Floating Point P108-115
 - ~~UNIX: A History and a Memoir~~
+- [ProGit 2](https://git-scm.com/book/en/v2)
 - The Practice of Programming
 - 穷查理宝典
 - 乌合之众
