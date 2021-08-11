@@ -149,7 +149,7 @@ Here we go!
 ### Books && Docs
 
 #### Books
-- 高能效人士的七个习惯 <-- P139/242
+- 高能效人士的七个习惯 <-- P143/242
 - The C Programming Language <-- P61/272
 - the UNIX Programming Environment  <-- P69/357
 - The Computer System, A programmer's perspective  <-- P108-112
@@ -157,6 +157,7 @@ Here we go!
 - ~~UNIX: A History and a Memoir~~
 - [ProGit 2](https://git-scm.com/book/en/v2)
 - The Practice of Programming
+- Data Structures and Algorithm Analysis in C, Second Edition
 - 穷查理宝典
 - 乌合之众
 - 鹿鼎记4 <-- 40%
