@@ -35,9 +35,9 @@ filetype plugin indent on
 #### Install plugin
 When you've got `vim-pathogen`, install plugin becomes very easy. Here, we want to install some pretty useful plugins:
 
-- Nerdtree: `cd ~/.vim/bundle && git clone https://github.com/preservim/nerdtree`
-- Syntax-Sensible: `cd ~/.vim/bundle && git clone https://github.com/tpope/vim-sensible.git`
-- vim-barbaric: `cd ~/.vim/bundle && git clone https://github.com/jackie-mantou/vim-barbaric`
+- Nerdtree: `cd ~/.vim/bundle && git clone git@github.com:guo-mantou/nerdtree`
+- Syntax-Sensible: `cd ~/.vim/bundle && git clone git@github.com:guo-mantou/vim-sensible.git`
+- vim-barbaric: `cd ~/.vim/bundle && git clone git@github.com:guo-mantou/vim-barbaric`
 
 ### Windows platform
 
