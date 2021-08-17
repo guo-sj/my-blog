@@ -115,6 +115,8 @@ Here we go!
 - [The Linux Information Project](http://www.linfo.org/index.html)
     - ~~[Process](http://www.linfo.org/process.html)~~
     - [kernel](http://www.linfo.org/kernel.html)
+        - ~~kernel space~~
+        - ~~user space~~
     - [Data Structure](http://www.linfo.org/data_structure.html)
     - [vmlinuz ](http://www.linfo.org/vmlinuz.html)
     - [PID](http://www.linfo.org/pid.html)
