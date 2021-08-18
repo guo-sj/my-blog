@@ -29,7 +29,9 @@ Here we go!
 ## Self educated
 - write a anki article: learn first, then memorize, I can defeat any exam! 但是大多数时候，因为各种各样的原因，我们没有学习，就更谈不上复习和记忆
 这种情况，anki就派不上用场。所以提早学习，大量时间用anki复习，就可以应对所有的考试！
-- **写下自己的使命宣言**
+
+- ~~**写下自己的使命宣言**~~
+
 
 ### ANKI 单词登录
 #### English
@@ -37,8 +39,10 @@ Here we go!
 - 《The UNIX programming environment》P59
 - ~~《TCP/IP Tutorial》~~
 
+
 #### Japanese
 - 日语日常用语
+
 
 ### Online Courses
 - [PowerShell](https://docs.microsoft.com/en-us/learn/paths/powershell/)
@@ -47,6 +51,7 @@ Here we go!
     - [Write your first PowerShell code](https://docs.microsoft.com/en-us/learn/modules/powershell-write-first/)
     - [Introduction to scripting in PowerShell](https://docs.microsoft.com/en-us/learn/modules/script-with-powershell/)
     - [Automate Azure tasks using scripts with PowerShell](https://docs.microsoft.com/en-us/learn/modules/automate-azure-tasks-with-powershell/)
+
 
 - [C++ Tutorials](https://www.cplusplus.com/doc/tutorial/)
     - Introduction
@@ -112,13 +117,29 @@ Here we go!
     - ~~[How to solve time complexity Recurrence Relations using Recursion Tree method?](https://www.geeksforgeeks.org/how-to-solve-time-complexity-recurrence-relations-using-recursion-tree-method/#:~:text=Steps%20to%20solve%20recurrence%20relation%20using%20recursion%20tree,all%20the%20levels%20in%20the%20recursive%20tree.%20)~~
  
 
+- Computer Networking Course
+    - [Introduction to computer networking - uic](https://www.cs.uic.edu/~jbell/CourseNotes/Networking/index.html)
+
+
+- Operating System Resource
+    - [Operating System Concepts Ninth Edition](http://www.cs.nthu.edu.tw/~ychung/slides/CSC3150/Abraham-Silberschatz-Operating-System-Concepts---9th2012.12.pdf)
+        - [Operating System - uic](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/)
+        - [yale university slides](https://codex.cs.yale.edu/avi/os-book/OS8/os8c/slide-dir/index.html)
+    - [Writing a Simple Operating System - from Scratch](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf)
+    - [Operating System - Jacobs-University](https://cnds.jacobs-university.de/courses/os-2020/os-notes.pdf)
+
+
 - [The Linux Information Project](http://www.linfo.org/index.html)
     - ~~[Process](http://www.linfo.org/process.html)~~
-    - [kernel](http://www.linfo.org/kernel.html)
+    - ~~[kernel](http://www.linfo.org/kernel.html)~~
         - ~~kernel space~~
         - ~~user space~~
+        - [The Mach Kernel](http://www.jklp.org/profession/papers/mach/paper.html)
+        - [Mach: A System Software Kernel](https://srl.cs.jhu.edu/courses/600.439/syskernel.pdf)
+        - [LINUX is obsolete](http://www.linfo.org/obsolete.html)
+        - [I/O Systems](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/13_IOSystems.html)
     - [Data Structure](http://www.linfo.org/data_structure.html)
-    - [vmlinuz ](http://www.linfo.org/vmlinuz.html)
+    - [vmlinuz](http://www.linfo.org/vmlinuz.html)
     - [PID](http://www.linfo.org/pid.html)
     - [System Call](http://www.linfo.org/system_call.html)
     - [File system](http://www.linfo.org/filesystem.html)
@@ -126,6 +147,7 @@ Here we go!
 
 - [Math is Fun](https://www.mathsisfun.com/index.htm)
     - [Calculus](https://www.mathsisfun.com/calculus/index.html)
+
 
 ### Online Manuals
 
@@ -145,8 +167,10 @@ Here we go!
             5.1.7 Breakpoint Command Lists
             5.1.8 Dynamic Printf   ok
 
+
 ### Money Course
 - 第十一周晚课笔记 货币资金  <-- 60%
+
 
 ### Books && Docs
 
