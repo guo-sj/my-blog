@@ -124,6 +124,7 @@ Here we go!
 - Operating System Resource
     - [Operating System Concepts Ninth Edition](http://www.cs.nthu.edu.tw/~ychung/slides/CSC3150/Abraham-Silberschatz-Operating-System-Concepts---9th2012.12.pdf)
         - [Operating System - uic](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/)
+            - [I/O Systems](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/13_IOSystems.html)
         - [yale university slides](https://codex.cs.yale.edu/avi/os-book/OS8/os8c/slide-dir/index.html)
     - [Writing a Simple Operating System - from Scratch](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf)
     - [Operating System - Jacobs-University](https://cnds.jacobs-university.de/courses/os-2020/os-notes.pdf)
@@ -136,13 +137,19 @@ Here we go!
         - ~~user space~~
         - [The Mach Kernel](http://www.jklp.org/profession/papers/mach/paper.html)
         - [Mach: A System Software Kernel](https://srl.cs.jhu.edu/courses/600.439/syskernel.pdf)
-        - [LINUX is obsolete](http://www.linfo.org/obsolete.html)
-        - [I/O Systems](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/13_IOSystems.html)
+        - ~~[LINUX is obsolete](http://www.linfo.org/obsolete.html)~~
+    - ~~[Linux](http://www.linfo.org/linuxdef.html)~~
+    - [Linus Torvalds](http://www.linfo.org/linus.html)
+    - [Ken Thompson](http://www.linfo.org/thompson.html)
+    - [UNIX](http://www.linfo.org/unix_upper.html)
     - [Data Structure](http://www.linfo.org/data_structure.html)
+    - [GNU](http://www.linfo.org/gnu.html)
+    - [backdoor](http://www.linfo.org/backdoor.html)
     - [vmlinuz](http://www.linfo.org/vmlinuz.html)
     - [PID](http://www.linfo.org/pid.html)
     - [System Call](http://www.linfo.org/system_call.html)
     - [File system](http://www.linfo.org/filesystem.html)
+    - [Monopoly](http://www.linfo.org/monopoly.html)
 
 
 - [Math is Fun](https://www.mathsisfun.com/index.htm)
