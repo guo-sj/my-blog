@@ -150,6 +150,7 @@ Here we go!
     - [System Call](http://www.linfo.org/system_call.html)
     - [File system](http://www.linfo.org/filesystem.html)
     - [Monopoly](http://www.linfo.org/monopoly.html)
+    - [clone](http://www.linfo.org/clone.html)
 
 
 - [Math is Fun](https://www.mathsisfun.com/index.htm)
