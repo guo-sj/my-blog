@@ -157,6 +157,10 @@ Here we go!
     - [Calculus](https://www.mathsisfun.com/calculus/index.html)
 
 
+- Interesting people's blog sites && articles
+    - [Gilles Castel -- a Mathematics student at the university of Leuven](https://castel.dev/)
+        - [How I'm able to take notes in mathematics lectures using LaTeX and Vim](https://castel.dev/post/lecture-notes-1/)
+
 ### Online Manuals
 
 - [GDB](https://sourceware.org/gdb/current/onlinedocs/gdb/)
