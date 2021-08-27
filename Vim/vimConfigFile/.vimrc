@@ -85,8 +85,8 @@ filetype plugin on
 " abbreviation
 ab #e		****************************************/
 ab #b		/****************************************
-ab {        {}
-ab /*       /* */
+ab '        ''
+ab "        ""
 
 " path
 set path=.,/usr/include,/usr/lib/gcc/x86_64-linux-gnu/9/include
@@ -96,15 +96,20 @@ execute pathogen#infect()
 syntax on
 filetype plugin indent on
 
-" key map
-nnoremap <F9> :w<CR>
-nnoremap <F10> :q<CR>
-nnoremap <F11> :wa<CR>
-nnoremap <F12> :qa<CR>
-nnoremap <Up> <C-W>k
-nnoremap <Down> <C-W>j
-nnoremap <Left> <C-W>h
-nnoremap <Right> <C-W>l
+" normal mode map
+nnoremap <F9>     :w<CR>
+nnoremap <F10>    :q<CR>
+nnoremap <Up>     <C-W>k
+nnoremap <Down>   <C-W>j
+nnoremap <Left>   <C-W>h
+nnoremap <Right>  <C-W>l
+nnoremap <End>    A;<Esc>
+
+" insert mode map
+imap (    ()<Esc>i
+imap {    {}<Esc>i<CR><Esc>O
+imap [    []<Esc>i
+imap /*   /**/<Esc>hi  <Esc>i
 
 " set dictionary
 set dictionary+=/usr/share/dict/words
