@@ -26,6 +26,9 @@ Because that:
 which turns into a signed integer will be (-1)*2³¹, whose decimal form is -2147483648.
 ```
 
+Actually, in c, when you input `-2³¹` to a int type variable i, then perform `i = -i`, 
+i is still equal to `-2³¹`.
+
 ## Example 2: 2³² - 1 = -1
 
 ```c
