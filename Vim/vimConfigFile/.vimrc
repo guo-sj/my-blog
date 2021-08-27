@@ -106,6 +106,9 @@ nnoremap <Down> <C-W>j
 nnoremap <Left> <C-W>h
 nnoremap <Right> <C-W>l
 
+" set dictionary
+set dictionary+=/usr/share/dict/words
+
 " <------------------------NERDtree config------------------------>
 " Start NERDTree. If a file is specified, move the cursor to its window.
 autocmd StdinReadPre * let s:std_in=1
@@ -115,3 +118,8 @@ autocmd VimEnter * NERDTree | if argc() > 0 || exists("s:std_in") | wincmd p | e
 " autocmd BufWinEnter * if getcmdwintype() == '' | silent NERDtreeMirror | endif
 autocmd BufWinEnter * if getcmdwintype() == '' | silent NERDTreeMirror | endif
 " <------------------------NERDtree config------------------------>
+
+" syntax folding
+set foldmethod=syntax
+let javaScript_fold=1             " JavaScript
+let g:markdown_folding=1          " markdown
