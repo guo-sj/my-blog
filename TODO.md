@@ -147,7 +147,10 @@ Here we go!
     - [backdoor](http://www.linfo.org/backdoor.html)
     - [vmlinuz](http://www.linfo.org/vmlinuz.html)
     - [PID](http://www.linfo.org/pid.html)
-    - [System Call](http://www.linfo.org/system_call.html)
+    - ~~[System Call](http://www.linfo.org/system_call.html)~~
+        - ~~[System call number](http://www.linfo.org/system_call_number.html)~~
+        - [int 0x80](http://www.linfo.org/int_0x80.html)
+        - [glibc](http://www.linfo.org/glibc.html)
     - [File system](http://www.linfo.org/filesystem.html)
     - [Monopoly](http://www.linfo.org/monopoly.html)
     - [clone](http://www.linfo.org/clone.html)
