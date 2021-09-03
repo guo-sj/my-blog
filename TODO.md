@@ -143,14 +143,18 @@ Here we go!
     - [Ken Thompson](http://www.linfo.org/thompson.html)
     - [UNIX](http://www.linfo.org/unix_upper.html)
     - [Data Structure](http://www.linfo.org/data_structure.html)
-    - [GNU](http://www.linfo.org/gnu.html)
     - [backdoor](http://www.linfo.org/backdoor.html)
     - [vmlinuz](http://www.linfo.org/vmlinuz.html)
     - [PID](http://www.linfo.org/pid.html)
     - ~~[System Call](http://www.linfo.org/system_call.html)~~
         - ~~[System call number](http://www.linfo.org/system_call_number.html)~~
         - [int 0x80](http://www.linfo.org/int_0x80.html)
-        - [glibc](http://www.linfo.org/glibc.html)
+        - ~~[glibc](http://www.linfo.org/glibc.html)~~
+        - [GNU](http://www.linfo.org/gnu.html)
+        - [Platform](http://www.linfo.org/platform.html)
+        - [User mode](http://www.linfo.org/user_mode.html)
+        - [Software Interrupt](http://www.linfo.org/software_interrupt.html)
+        - [Argument](http://www.linfo.org/argument.html)
     - [File system](http://www.linfo.org/filesystem.html)
     - [Monopoly](http://www.linfo.org/monopoly.html)
     - [clone](http://www.linfo.org/clone.html)
