@@ -158,6 +158,7 @@ Here we go!
     - [File system](http://www.linfo.org/filesystem.html)
     - [Monopoly](http://www.linfo.org/monopoly.html)
     - [clone](http://www.linfo.org/clone.html)
+    - [Internet](http://www.linfo.org/internet.html)
 
 
 - [Math is Fun](https://www.mathsisfun.com/index.htm)
@@ -192,6 +193,8 @@ Here we go!
             5.1.7 Breakpoint Command Lists
             5.1.8 Dynamic Printf   ok
 
+### Front end resources
+- [HTML, CSS, Bootstrap, Javascript andjQuery](https://buildmedia.readthedocs.org/media/pdf/htmlguide/latest/htmlguide.pdf)
 
 ### Money Course
 - 第十一周晚课笔记 货币资金  <-- 60%
