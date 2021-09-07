@@ -165,12 +165,14 @@ Here we go!
     - [Calculus](https://www.mathsisfun.com/calculus/index.html)
 
 
-- Interesting people's blog sites && articles
+- Interesting people's blog sites
     - [Gilles Castel -- a Mathematics student at the university of Leuven](https://castel.dev/)
         - [How I'm able to take notes in mathematics lectures using LaTeX and Vim](https://castel.dev/post/lecture-notes-1/)
     - [Neel Nanda](https://www.neelnanda.io/about)
         - [Your Standards are Too High](https://www.neelnanda.io/blog/35-standards)
     - [Learn Software Engineering Levels to Advance Your Career](https://blog.tryexponent.com/learn-software-engineering-levels-to-advance-your-career/)
+    - [geekplux -- 在香港的打工人](https://geekplux.com/archives)
+    - [MindHacks--刘未鹏的博客](http://mindhacks.cn/)
     - Developer road map
         - [frontend roadmap](https://roadmap.sh/frontend)
         - [backend roadmap](https://roadmap.sh/backend)
