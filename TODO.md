@@ -139,7 +139,7 @@ Here we go!
         - [Mach: A System Software Kernel](https://srl.cs.jhu.edu/courses/600.439/syskernel.pdf)
         - ~~[LINUX is obsolete](http://www.linfo.org/obsolete.html)~~
     - ~~[Linux](http://www.linfo.org/linuxdef.html)~~
-    - [Linus Torvalds](http://www.linfo.org/linus.html)
+    - ~~[Linus Torvalds](http://www.linfo.org/linus.html)~~
     - [Ken Thompson](http://www.linfo.org/thompson.html)
     - [UNIX](http://www.linfo.org/unix_upper.html)
     - [Data Structure](http://www.linfo.org/data_structure.html)
@@ -159,7 +159,8 @@ Here we go!
     - [Monopoly](http://www.linfo.org/monopoly.html)
     - [clone](http://www.linfo.org/clone.html)
     - [Internet](http://www.linfo.org/internet.html)
-    - [OSDL](http://www.linfo.org/osdl.html)
+    - [OSDL](http://www.linfo.org/osdl.html)   <-- 
+    - [Robust](http://www.linfo.org/robust.html)
 
 
 - [Math is Fun](https://www.mathsisfun.com/index.htm)
