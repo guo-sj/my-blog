@@ -211,6 +211,16 @@ Here we go!
 - The C Programming Language <-- P64/272
 - the UNIX Programming Environment  <-- P79/357
 - The Computer System, A programmer's perspective  <-- P108-112
+    - 2. Representing and Manipulating Information 67
+        - 2.1 Information Storage 70
+            - 2.1.1 Hexadecimal Notation 72
+            - 2.1.2 Data Sizes  75
+        - 2.2 Integer Representions  95
+            - 2.2.3 Two's-Complement Encodings  98
+        - 2.3 Integer Arithmetic  120
+            - ~~2.3.1 Unsigned Addition  120~~
+            - 2.3.2 Two's-Complement Addition  126
+            - 2.3.3 Two's-Complement Negation  131
     - Floating Point P108-115
 - ~~UNIX: A History and a Memoir~~
 - [ProGit 2](https://git-scm.com/book/en/v2)
