@@ -217,9 +217,10 @@ Here we go!
             - 2.1.2 Data Sizes  75
         - 2.2 Integer Representions  95
             - 2.2.3 Two's-Complement Encodings  98
+            - 2.2.4 Conversions between Signed and Unsigned 106  <-- 60% ⒈
         - 2.3 Integer Arithmetic  120
             - ~~2.3.1 Unsigned Addition  120~~
-            - 2.3.2 Two's-Complement Addition  126
+            - 2.3.2 Two's-Complement Addition  126  <-- 10% ⒉
             - 2.3.3 Two's-Complement Negation  131
     - Floating Point P108-115
 - ~~UNIX: A History and a Memoir~~
