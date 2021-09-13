@@ -7,6 +7,102 @@ Once one question is solved, I will add a stub about it.
 
 Here we go!  
 
+## For Get A Citrix Job
+
+这一部分是专为应聘思杰的的自我教育内容，遵循的原则是**知识理解 -> 知识应用 -> 语言学习**。
+
+### 公司内容
+- Strong understanding of Computer Science fundamentals (e.g., algorithms, data structures, operating system)
+    - [DSA - Tutorial](https://www.tutorialspoint.com/data_structures_algorithms/index.htm)
+        - Data Structure & Algorithms
+            - ~~[Home](https://www.tutorialspoint.com/data_structures_algorithms/index.htm)~~
+            - ~~[Overview](https://www.tutorialspoint.com/data_structures_algorithms/data_structure_overview.htm)~~
+            - ~~[Environment Setup](https://www.tutorialspoint.com/data_structures_algorithms/data_structure_environment.htm)~~
+        - Algorithms
+            - ~~[Algorithms Basics](https://www.tutorialspoint.com/data_structures_algorithms/algorithms_basics.htm)~~
+            - ~~[Asymptotic Analysis](https://www.tutorialspoint.com/data_structures_algorithms/asymptotic_analysis.htm)~~
+            - [Greedy Algorithms](https://www.tutorialspoint.com/data_structures_algorithms/greedy_algorithms.htm)
+            - ~~[Divide and Conquer](https://www.tutorialspoint.com/data_structures_algorithms/divide_and_conquer.htm)~~
+            - [Dynamic Programming](https://www.tutorialspoint.com/data_structures_algorithms/dynamic_programming.htm)
+        - Sorting Techniques
+            - ~~[Quick Sort](https://www.tutorialspoint.com/data_structures_algorithms/quick_sort_algorithm.htm)~~
+    - [Operating System - uic](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/)
+        - [I/O Systems](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/13_IOSystems.html)
+
+- Understanding of multi-thread programing
+    - CSAPP 12 Concurrent Programming  1007 ~ 1072
+
+- Understanding of database fundamentals and experience with SQL.
+    - 资源待定
+
+- Experience on data analysis and Azure/AWS/GCP technology is a big plus
+    - [data analysis tutorial](https://www.tutorialspoint.com/excel_data_analysis/data_analysis_overview.htm)
+    - [azure learn](https://docs.microsoft.com/en-us/learn/azure/)
+
+- Understanding of micro services architecture, and cloud technologies (IaaS/PaaS) is a big plus)
+    - [Microsoft Azure micro services](https://azure.microsoft.com/en-us/solutions/microservice-applications/#customer-stories)
+
+- Proficient in Object Oriented Programming languages C++ => C#
+    - [C++ Tutorials](https://www.cplusplus.com/doc/tutorial/)
+        - Introduction
+            - ~~[Compilers](https://www.cplusplus.com/doc/tutorial/introduction/)~~
+        - Basics of C++
+            - ~~[Structure of a program](https://www.cplusplus.com/doc/tutorial/program_structure/)~~
+            - ~~[Variables and types](https://www.cplusplus.com/doc/tutorial/variables/)~~
+            - ~~[Constants](https://www.cplusplus.com/doc/tutorial/constants/)~~
+            - ~~[Operators](https://www.cplusplus.com/doc/tutorial/operators/)~~
+            - ~~[Basic Input/Output](https://www.cplusplus.com/doc/tutorial/basic_io/)~~
+        - Program structure
+            - ~~[Statements and flow control](https://www.cplusplus.com/doc/tutorial/control/)~~
+            - ~~[Functions](https://www.cplusplus.com/doc/tutorial/functions/)~~
+            - ~~[Overloads and templates](https://www.cplusplus.com/doc/tutorial/functions2/)~~
+            - ~~[Name visibility](https://www.cplusplus.com/doc/tutorial/namespaces/)~~
+            - ~~[Microsoft C++ namespace](https://docs.microsoft.com/en-us/cpp/cpp/namespaces-cpp?view=msvc-160#:~:text=Namespaces%20%28C%2B%2B%29%201%20using%20directives.%20...%202%20Declaring,anonymous%20or%20unnamed%20namespaces.%20...%209%20See%20also)~~
+        - Compound data types
+            - ~~[Arrays](https://www.cplusplus.com/doc/tutorial/arrays/)~~
+            - ~~[Character sequences](https://www.cplusplus.com/doc/tutorial/ntcs/)~~
+            - ~~[Pointers](https://www.cplusplus.com/doc/tutorial/pointers/)~~
+            - ~~[Dynamic memory](https://www.cplusplus.com/doc/tutorial/dynamic/)~~
+            - [Data structure](https://www.cplusplus.com/doc/tutorial/structures/)  <-- 20%
+            - [Other data types](https://www.cplusplus.com/doc/tutorial/other_data_types/)
+        - Classes
+            - [Classes (I)](https://www.cplusplus.com/doc/tutorial/classes/)   <-- 50%  to *Uniform initialization*
+            - [Classes (II)](https://www.cplusplus.com/doc/tutorial/templates/)
+            - [Special members](https://www.cplusplus.com/doc/tutorial/classes2/)
+            - [Friendship and inheritance](https://www.cplusplus.com/doc/tutorial/inheritance/)
+            - [Polymorphism](https://www.cplusplus.com/doc/tutorial/polymorphism/)
+        - Other language features
+            - [Type conversions](https://www.cplusplus.com/doc/tutorial/typecasting/)
+            - [Exceptions](https://www.cplusplus.com/doc/tutorial/exceptions/)
+            - [Preprocessor directives](https://www.cplusplus.com/doc/tutorial/preprocessor/)
+        - Standard library
+            - [Input/output with files](https://www.cplusplus.com/doc/tutorial/files/)
+    - [C# tutorial](https://csharp.net-tutorials.com/)
+
+- Experience in scripting languages like PowerShell, Python, JavaScript [Angular/React]
+    - [Python Tutorial](https://www.python.org/about/gettingstarted/)
+    - [The Javascript Language](https://javascript.info/js)
+    - [Powershell tutorial](https://www.tutorialspoint.com/powershell/index.htm)
+
+
+### 居家内容
+- 高能效人士的七个习惯 <-- P143/242
+- The C Programming Language <-- P64/272
+- the UNIX Programming Environment  <-- P79/357
+- The Computer System, A programmer's perspective  <-- P108-112
+    - 2. Representing and Manipulating Information 67
+        - 2.1 Information Storage 70
+            - 2.1.1 Hexadecimal Notation 72
+            - 2.1.2 Data Sizes  75
+        - 2.2 Integer Representions  95
+            - 2.2.3 Two's-Complement Encodings  98
+            - 2.2.4 Conversions between Signed and Unsigned 106  <-- 60% ⒈
+        - 2.3 Integer Arithmetic  120
+            - ~~2.3.1 Unsigned Addition  120~~
+            - 2.3.2 Two's-Complement Addition  126  <-- 10% ⒉
+            - 2.3.3 Two's-Complement Negation  131
+    - Floating Point P108-115
+
 ## computer
 
 ### Programming
@@ -53,62 +149,11 @@ Here we go!
     - [Automate Azure tasks using scripts with PowerShell](https://docs.microsoft.com/en-us/learn/modules/automate-azure-tasks-with-powershell/)
 
 
-- [C++ Tutorials](https://www.cplusplus.com/doc/tutorial/)
-    - Introduction
-        - ~~[Compilers](https://www.cplusplus.com/doc/tutorial/introduction/)~~
-    - Basics of C++
-        - ~~[Structure of a program](https://www.cplusplus.com/doc/tutorial/program_structure/)~~
-        - ~~[Variables and types](https://www.cplusplus.com/doc/tutorial/variables/)~~
-        - ~~[Constants](https://www.cplusplus.com/doc/tutorial/constants/)~~
-        - ~~[Operators](https://www.cplusplus.com/doc/tutorial/operators/)~~
-        - ~~[Basic Input/Output](https://www.cplusplus.com/doc/tutorial/basic_io/)~~
-    - Program structure
-        - ~~[Statements and flow control](https://www.cplusplus.com/doc/tutorial/control/)~~
-        - ~~[Functions](https://www.cplusplus.com/doc/tutorial/functions/)~~
-        - ~~[Overloads and templates](https://www.cplusplus.com/doc/tutorial/functions2/)~~
-        - ~~[Name visibility](https://www.cplusplus.com/doc/tutorial/namespaces/)~~
-        - ~~[Microsoft C++ namespace](https://docs.microsoft.com/en-us/cpp/cpp/namespaces-cpp?view=msvc-160#:~:text=Namespaces%20%28C%2B%2B%29%201%20using%20directives.%20...%202%20Declaring,anonymous%20or%20unnamed%20namespaces.%20...%209%20See%20also)~~
-    - Compound data types
-        - ~~[Arrays](https://www.cplusplus.com/doc/tutorial/arrays/)~~
-        - ~~[Character sequences](https://www.cplusplus.com/doc/tutorial/ntcs/)~~
-        - ~~[Pointers](https://www.cplusplus.com/doc/tutorial/pointers/)~~
-        - ~~[Dynamic memory](https://www.cplusplus.com/doc/tutorial/dynamic/)~~
-        - [Data structure](https://www.cplusplus.com/doc/tutorial/structures/)  <-- 20%
-        - [Other data types](https://www.cplusplus.com/doc/tutorial/other_data_types/)
-    - Classes
-        - [Classes (I)](https://www.cplusplus.com/doc/tutorial/classes/)   <-- 50%  to *Uniform initialization*
-        - [Classes (II)](https://www.cplusplus.com/doc/tutorial/templates/)
-        - [Special members](https://www.cplusplus.com/doc/tutorial/classes2/)
-        - [Friendship and inheritance](https://www.cplusplus.com/doc/tutorial/inheritance/)
-        - [Polymorphism](https://www.cplusplus.com/doc/tutorial/polymorphism/)
-    - Other language features
-        - [Type conversions](https://www.cplusplus.com/doc/tutorial/typecasting/)
-        - [Exceptions](https://www.cplusplus.com/doc/tutorial/exceptions/)
-        - [Preprocessor directives](https://www.cplusplus.com/doc/tutorial/preprocessor/)
-    - Standard library
-        - [Input/output with files](https://www.cplusplus.com/doc/tutorial/files/)
-
-
 - More about C++ programming 
     - [Object-Oriented Programming Using C++ (Weber University course)](https://icarus.cs.weber.edu/~dab/cs1410/textbook/index.html)
         - [Pointers](https://icarus.cs.weber.edu/~dab/cs1410/textbook/pointers.html)
             - ~~[4.6 Memory Management: Stack And Heap](https://icarus.cs.weber.edu/~dab/cs1410/textbook/4.Pointers/memory.html)~~
             - ~~[4.7 Dynamic Memory: new And delete](https://icarus.cs.weber.edu/~dab/cs1410/textbook/4.Pointers/dynamic.html)~~
-
-
-- [Data Structure Tutorial](https://www.tutorialspoint.com/data_structures_algorithms/index.htm)
-    - Data Structure & Algorithms
-        - ~~[Home](https://www.tutorialspoint.com/data_structures_algorithms/index.htm)~~
-        - ~~[Overview](https://www.tutorialspoint.com/data_structures_algorithms/data_structure_overview.htm)~~
-        - ~~[Environment Setup](https://www.tutorialspoint.com/data_structures_algorithms/data_structure_environment.htm)~~
-    - Algorithms
-        - ~~[Algorithms Basics](https://www.tutorialspoint.com/data_structures_algorithms/algorithms_basics.htm)~~
-        - ~~[Asymptotic Analysis](https://www.tutorialspoint.com/data_structures_algorithms/asymptotic_analysis.htm)~~
-        - [Greedy Algorithms](https://www.tutorialspoint.com/data_structures_algorithms/greedy_algorithms.htm)
-        - ~~[Divide and Conquer](https://www.tutorialspoint.com/data_structures_algorithms/divide_and_conquer.htm)~~
-        - [Dynamic Programming](https://www.tutorialspoint.com/data_structures_algorithms/dynamic_programming.htm)
-    - Sorting Techniques
-        - ~~[Quick Sort](https://www.tutorialspoint.com/data_structures_algorithms/quick_sort_algorithm.htm)~~
 
 
 - More about Data Structure and Algorithms
