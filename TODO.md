@@ -21,9 +21,14 @@ Here we go!
         - Algorithms
             - ~~[Algorithms Basics](https://www.tutorialspoint.com/data_structures_algorithms/algorithms_basics.htm)~~
             - ~~[Asymptotic Analysis](https://www.tutorialspoint.com/data_structures_algorithms/asymptotic_analysis.htm)~~
-            - [Greedy Algorithms](https://www.tutorialspoint.com/data_structures_algorithms/greedy_algorithms.htm)
+            - ~~[Greedy Algorithms](https://www.tutorialspoint.com/data_structures_algorithms/greedy_algorithms.htm)~~
             - ~~[Divide and Conquer](https://www.tutorialspoint.com/data_structures_algorithms/divide_and_conquer.htm)~~
-            - [Dynamic Programming](https://www.tutorialspoint.com/data_structures_algorithms/dynamic_programming.htm)
+            - ~~[Dynamic Programming](https://www.tutorialspoint.com/data_structures_algorithms/dynamic_programming.htm)~~
+        - Data structures
+            - ~~Data Structure Basics~~
+            - ~~Array Data Structure~~
+        - Linked Lists
+            - Linked List Basics  <--
         - Sorting Techniques
             - ~~[Quick Sort](https://www.tutorialspoint.com/data_structures_algorithms/quick_sort_algorithm.htm)~~
     - [Operating System - uic](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/)
