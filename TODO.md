@@ -30,7 +30,8 @@ Here we go!
         - Linked Lists
             - Linked List Basics  <--
         - Sorting Techniques
-            - ~~[Quick Sort](https://www.tutorialspoint.com/data_structures_algorithms/quick_sort_algorithm.htm)~~
+            - ~~Sorting Techniques~~
+            - [Quick Sort](https://www.tutorialspoint.com/data_structures_algorithms/quick_sort_algorithm.htm)
     - [Operating System - uic](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/)
         - [I/O Systems](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/13_IOSystems.html)
 
