@@ -93,7 +93,7 @@ Here we go!
 
 ### 居家内容
 - 高能效人士的七个习惯 <-- P175/242
-- The C Programming Language <-- P67/272
+- The C Programming Language <-- P71/272
 - the UNIX Programming Environment  <-- P82/357
 - The Computer System, A programmer's perspective  <-- P108-112
     - 2. Representing and Manipulating Information 67
