@@ -170,6 +170,7 @@ Here we go!
 
 - Computer Networking Course
     - [Introduction to computer networking - uic](https://www.cs.uic.edu/~jbell/CourseNotes/Networking/index.html)
+        - [TCP - rfc793](https://datatracker.ietf.org/doc/html/rfc793#section-3.3)
 
 
 - Operating System Resource
