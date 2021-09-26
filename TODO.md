@@ -230,6 +230,8 @@ Here we go!
     - Developer road map
         - [frontend roadmap](https://roadmap.sh/frontend)
         - [backend roadmap](https://roadmap.sh/backend)
+    - [Jake Zimmerman - a hacker (I think) who graduated from carnegie mellon university](https://jez.io/)
+        - [Writing at the command line](https://jez.io/talks/slides/writing-cli/writing-cli.pdf)
 
 ### Online Manuals
 
