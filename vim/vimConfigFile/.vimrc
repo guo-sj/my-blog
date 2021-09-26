@@ -129,3 +129,10 @@ autocmd BufWinEnter * if getcmdwintype() == '' | silent NERDTreeMirror | endif
 set foldmethod=syntax
 let javaScript_fold=1             " JavaScript
 let g:markdown_folding=1          " markdown
+
+" record macro
+let @b = 'i**ea**'    " markdown bold
+let @i = 'i*ea*'      " markdown italic
+
+let @q = 'i<ib2ea<i/b'    " anki html bold, set 'ab < <>' before using it
+
