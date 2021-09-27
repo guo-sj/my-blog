@@ -11,6 +11,12 @@ Here we go!
 
 这一部分是专为应聘思杰的的自我教育内容，遵循的原则是**知识理解 -> 知识应用 -> 语言学习**。
 
+### 简历
+- [简历模板 -- jez's resume](https://jez.io/resume/resume.pdf)
+
+### 搭建自己的github blog
+- [Create site with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#)
+
 ### 公司内容
 - Strong understanding of Computer Science fundamentals (e.g., algorithms, data structures, operating system)
     - [DSA - Tutorial](https://www.tutorialspoint.com/data_structures_algorithms/index.htm)
@@ -122,7 +128,7 @@ Here we go!
     - ~~[百度输入法官网](https://srf.baidu.com/site/guanwang_linux/index.html)~~
     - ~~[安装教程](https://blog.csdn.net/weixin_43359312/article/details/115200846)~~
 - VIM Markdown fold
-    - vim manual usr_28.txt: 28.8 Folding by expression
+    - ~~vim manual usr_28.txt: 28.8 Folding by expression~~
 - VIM 中文输入法问题
     - ~~[Blog_1](https://www.littlezhang.com/2021/03/%E5%9C%A8-vim-%E9%87%8C%E6%9B%B4%E5%A5%BD%E5%9C%B0%E4%BD%BF%E7%94%A8%E4%B8%AD%E6%96%87%E8%BE%93%E5%85%A5%E6%B3%95/)~~
 - ~~UNIX: A History and a Memoir 读后感~~
@@ -232,6 +238,7 @@ Here we go!
         - [backend roadmap](https://roadmap.sh/backend)
     - [Jake Zimmerman - a hacker (I think) who graduated from carnegie mellon university](https://jez.io/)
         - [Writing at the command line](https://jez.io/talks/slides/writing-cli/writing-cli.pdf)
+        - [His resume](https://jez.io/resume/resume.pdf)
 
 ### Online Manuals
 
