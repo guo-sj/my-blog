@@ -233,6 +233,7 @@ Here we go!
     - [Learn Software Engineering Levels to Advance Your Career](https://blog.tryexponent.com/learn-software-engineering-levels-to-advance-your-career/)
     - [geekplux -- 在香港的打工人](https://geekplux.com/archives)
     - [MindHacks--刘未鹏的博客](http://mindhacks.cn/)
+        - [[BetterExplained]为什么你应该（从现在开始就）写博客](http://mindhacks.cn/2009/02/15/why-you-should-start-blogging-now/)
     - Developer road map
         - [frontend roadmap](https://roadmap.sh/frontend)
         - [backend roadmap](https://roadmap.sh/backend)
