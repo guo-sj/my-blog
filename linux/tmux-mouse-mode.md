@@ -1,4 +1,4 @@
-# tmux mouse
+# tmux mouse mode
 
 Open mouse mode in tmux:
 ```
