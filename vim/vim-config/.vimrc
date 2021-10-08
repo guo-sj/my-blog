@@ -85,8 +85,6 @@ filetype plugin on
 " abbreviation
 ab #e		****************************************/
 ab #b		/****************************************
-ab '        ''
-ab "        ""
 
 " path
 set path=.,/usr/include,/usr/lib/gcc/x86_64-linux-gnu/9/include
