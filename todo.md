@@ -224,6 +224,8 @@ Here we go!
 - [Math is Fun](https://www.mathsisfun.com/index.htm)
     - [Calculus](https://www.mathsisfun.com/calculus/index.html)
 
+- [Linux from scratch -- build your own Linux distribution step by step](https://www.linuxfromscratch.org/lfs/)
+    - [Step by step tutorial](https://www.linuxfromscratch.org/lfs/view/stable/)
 
 - Interesting people's blog sites
     - [Gilles Castel -- a Mathematics student at the university of Leuven](https://castel.dev/)
