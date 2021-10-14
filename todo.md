@@ -334,3 +334,12 @@ Here we go!
 ### Others
 - ~~Update N4 总结~~
 - 完成story`黄金大劫案`
+
+
+### Having Fun
+
+- [Create HTML TEXT ADVENTURE Games In Your Browser](https://adventuron.io/)
+    - 这是一个网站，按照步骤可以让你建造属于自己的文字冒险游戏
+
+- [vim as a ide](https://blog.jez.io/vim-as-an-ide/)
+    - 这个网站可以让你一步一步优化vim直到它成为你自己的ide
