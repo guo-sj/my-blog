@@ -135,5 +135,5 @@ let @d = 'i`ea`'              " markdown denote single word like `aa`
 
 let @q = 'i<ib2ea<i/b'    " anki html bold, set 'ab < <>' before using it
 
-let @c = '0wi//'                " C language comment
+let @c = '0wi//l'                " C language comment
 let @u = '0wxx'                   " C language uncomment
