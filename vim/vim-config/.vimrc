@@ -129,9 +129,11 @@ let javaScript_fold=1             " JavaScript
 let g:markdown_folding=1          " markdown
 
 " record macro
-let @b = 'i**ea**'    " markdown bold
-let @i = 'i*ea*'      " markdown italic
-let @d = 'i`ea`'      " markdown denote single word like `aa`
+let @b = 'i**ea**'            " markdown bold
+let @i = 'i*ea*'              " markdown italic
+let @d = 'i`ea`'              " markdown denote single word like `aa`
 
 let @q = 'i<ib2ea<i/b'    " anki html bold, set 'ab < <>' before using it
 
+let @c = '0wi\\'                " C language comment
+let @u = '0wxx'                   " C language uncomment
