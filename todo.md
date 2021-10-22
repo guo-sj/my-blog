@@ -243,6 +243,9 @@ Here we go!
         - [Writing at the command line](https://jez.io/talks/slides/writing-cli/writing-cli.pdf)
         - [His resume](https://jez.io/resume/resume.pdf)
     - [A security achitect's blog - Signs of Triviality](https://www.netmeister.org/blog/)
+    - [This is a crazy site where vast amount of articles resides](https://danluu.com/)
+        - [Willingness to look stupid](https://danluu.com/look-stupid/)
+        - [what to learn](https://danluu.com/learn-what/)
 
 ### Online Manuals
 
