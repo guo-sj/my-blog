@@ -242,6 +242,7 @@ Here we go!
     - [Jake Zimmerman - a hacker (I think) who graduated from carnegie mellon university](https://jez.io/)
         - [Writing at the command line](https://jez.io/talks/slides/writing-cli/writing-cli.pdf)
         - [His resume](https://jez.io/resume/resume.pdf)
+    - [A security achitect's blog - Signs of Triviality](https://www.netmeister.org/blog/)
 
 ### Online Manuals
 
