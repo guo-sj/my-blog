@@ -102,6 +102,7 @@ let g:markdown_folding=1          " markdown
 nnoremap <F9>     :w<CR>
 nnoremap <F10>    :q<CR>
 nnoremap <F8>     q:
+nnoremap <F7>     :!git diff<CR>
 nnoremap <Up>     <C-W>k
 nnoremap <Down>   <C-W>j
 nnoremap <Left>   <C-W>h
