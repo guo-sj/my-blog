@@ -172,6 +172,18 @@ filetype plugin indent on
 autocmd BufWinEnter * if getcmdwintype() == '' | silent NERDTreeMirror | endif
 " /**************** NERDtree config end ****************/
 
+" Syntax highlighting requires a loaded plugin
+syntax enable
+set background=dark
+" let g:solarized_termcolors=256
+let g:solarized_underline = 0 " disable underlining, esp. for folds
+colorscheme solarized
+
+" vim-airline configurations
+let g:airline#extensions#tabline#enabled = 1 " Enable the list of buffers
+let g:airline_solarized_bg='dark'  " set airline theme to solarized dark
+
+
 " /*********************** plugins end ******************************/
 
 
@@ -183,7 +195,7 @@ filetype plugin on
 ab #b		/****************
 ab #e		****************/
 
+" colorscheme
 " colorscheme desert
-colorscheme desert
 
 " /***************** others end ************************/
